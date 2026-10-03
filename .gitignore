@@ -1,0 +1,11 @@
+# FreeCAD backups
+*.FCBak
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE settings
+.idea/
+.vscode/
