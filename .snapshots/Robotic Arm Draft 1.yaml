@@ -1,6 +1,6 @@
 v: 2
-timestamp: '2026-10-04T22:41:33.815789'
-uid: f3807e4e-4116-460b-9d97-c5f110f14f6b
+timestamp: '2026-10-04T22:52:37.540878'
+uid: 66f483d1-3e31-4118-88ea-d7c7c2fe11c8
 objects:
 - name: VarSet
   id: 1491
@@ -11064,13 +11064,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -2.555832724368914e-16 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: 1.731075257736034e-25 mm
         Base.z:
           type: QUANTITY
-          value: -0.0 mm
+          value: -1.3001781723312333e-27 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -11149,13 +11149,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.9999999999999896 mm
+          value: -0.9999999999999928 mm
         Base.y:
           type: QUANTITY
           value: -25.0 mm
         Base.z:
           type: QUANTITY
-          value: -0.0 mm
+          value: -1.4441790416027978e-25 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -11234,13 +11234,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.9999999999999915 mm
+          value: -0.9999999999999932 mm
         Base.y:
           type: QUANTITY
           value: 29.0 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -5.08557348024865e-25 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -11319,16 +11319,16 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -6.392792265091056 mm
+          value: -6.185279093586467 mm
         Base.y:
           type: QUANTITY
-          value: 31.999999999999993 mm
+          value: 31.999999999999964 mm
         Base.z:
           type: QUANTITY
-          value: -2.8739811767994037 mm
+          value: -2.7719503165380854 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 3.8910089537476362 deg
+          value: 3.743796853585719 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.0
@@ -12333,25 +12333,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000005 mm
+          value: -45.00000000000004 mm
         Base.y:
           type: QUANTITY
-          value: -61.999999999999986 mm
+          value: -61.99999999999999 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059951 mm
+          value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 4.906538933386798e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: -4.906538933386798e-18
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -12605,13 +12605,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -26.026744358661922 mm
+          value: -26.02674435866193 mm
         Base.y:
           type: QUANTITY
-          value: 7.1e-15 mm
+          value: 7.105427357601002e-15 mm
         Base.z:
           type: QUANTITY
-          value: 37.662699535406574 mm
+          value: 37.66269953540658 mm
         Rotation.Angle:
           type: QUANTITY
           value: 240.00000000000003 deg
@@ -12633,7 +12633,7 @@ objects:
           value: -44.999999999999986 mm
         Base.y:
           type: QUANTITY
-          value: -2.9999999999999822 mm
+          value: -3.0 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059948 mm
@@ -12764,25 +12764,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -6.414177618038989 mm
+          value: -6.185279093586519 mm
         Base.y:
           type: QUANTITY
-          value: 23.305853758684364 mm
+          value: 22.99999999999995 mm
         Base.z:
           type: QUANTITY
-          value: -2.872526641118385 mm
+          value: -2.771950316538117 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 3.910449509300417 deg
+          value: 3.743796853585719 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.0033822727969459354
+          value: -1.3588014948775017e-14
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9950247295428911
+          value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.09957081815885326
+          value: 0.0
       group: ' Link'
     Scale:
       kind: Primitive
@@ -12849,25 +12849,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -6.392284166944722 mm
+          value: -6.183174142801116 mm
         Base.y:
           type: QUANTITY
-          value: -18.882691409880497 mm
+          value: -18.523889800651176 mm
         Base.z:
           type: QUANTITY
-          value: -2.8692922458995964 mm
+          value: -2.7518090848991834 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 3.8920152302920723 deg
+          value: 3.7610134616472957 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.02265216460358665
+          value: 0.09521224997830648
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9997419668797831
+          value: 0.9954315995064921
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0016967905335978136
+          value: -0.007110426008007361
       group: ' Link'
     Scale:
       kind: Primitive
@@ -12934,25 +12934,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 129.6443335344321 mm
+          value: 129.50120354973077 mm
         Base.y:
           type: QUANTITY
-          value: 31.831939390719125 mm
+          value: 31.315135808513226 mm
         Base.z:
           type: QUANTITY
-          value: 168.39543406186678 mm
+          value: 169.14848368289535 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 8.771082575504382 deg
+          value: 8.976228228839588 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.009914957499826418
+          value: 0.03935173232793062
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.9999491191418765
+          value: -0.9991981379069629
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0018581563879678847
+          value: -0.007383926194713996
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13132,50 +13132,50 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -44.99999999999998 mm
+          value: -44.99999999999999 mm
         Base.y:
           type: QUANTITY
-          value: -2.9999999999999893 mm
+          value: -3.0 mm
         Base.z:
           type: QUANTITY
           value: 77.9422863405995 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999996 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -4.906538933387473e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: 4.90653893338612e-18
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000005 mm
+          value: -45.00000000000004 mm
         Base.y:
           type: QUANTITY
           value: -11.999999999999979 mm
         Base.z:
           type: QUANTITY
-          value: 77.9422863405995 mm
+          value: 77.94228634059947 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 4.906538933386799e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: -4.906538933386799e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -13404,13 +13404,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.0 mm
+          value: -44.999999999999986 mm
         Base.y:
           type: QUANTITY
-          value: -2.9999999999999787 mm
+          value: -3.0 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059951 mm
+          value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -13419,35 +13419,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0
+          value: 1.0349730562612776e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 1.1653029966793642e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000005 mm
+          value: -45.00000000000004 mm
         Base.y:
           type: QUANTITY
-          value: -53.999999999999986 mm
+          value: -53.99999999999998 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059951 mm
+          value: 77.94228634059947 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 4.906538933386799e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: -4.906538933386799e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -13679,10 +13679,10 @@ objects:
           value: 63.10794334925973 mm
         Base.y:
           type: QUANTITY
-          value: -2.999999999999943 mm
+          value: -3.0 mm
         Base.z:
           type: QUANTITY
-          value: 246.20598588626282 mm
+          value: 246.20598588626277 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -13691,35 +13691,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0
+          value: 1.0349730562612776e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 1.1653029966793642e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000006 mm
+          value: -45.00000000000007 mm
         Base.y:
           type: QUANTITY
-          value: -53.999999999999986 mm
+          value: -54.00000000000002 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059942 mm
+          value: 77.94228634059951 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -4.0325616858772725e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 5.006203005471215e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -13835,25 +13835,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 48.42838027661098 mm
+          value: 48.91093339350407 mm
         Base.y:
           type: QUANTITY
-          value: -25.317940771311516 mm
+          value: -25.978593240037572 mm
         Base.z:
           type: QUANTITY
-          value: -14.4757834064951 mm
+          value: -14.286102203469039 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 8.779566296811643 deg
+          value: 8.969264186105235 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.006392758750261403
+          value: 0.0008167672491143929
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.9990134073776328
+          value: -0.9999454362404645
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.04394706492239152
+          value: -0.010414289852325617
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13920,25 +13920,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 48.456969427526204 mm
+          value: 48.94668405817698 mm
         Base.y:
           type: QUANTITY
-          value: 30.125850261815593 mm
+          value: 30.509691131441897 mm
         Base.z:
           type: QUANTITY
-          value: -14.387774054352052 mm
+          value: -13.9206853444346 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 8.771082575504382 deg
+          value: 8.976228228839588 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.00991495749982642
+          value: 0.039351732327930614
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.9999491191418765
+          value: -0.9991981379069629
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0018581563879678852
+          value: -0.007383926194713996
       group: ' Link'
     Scale:
       kind: Primitive
@@ -14118,38 +14118,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 63.10794334925974 mm
+          value: 63.107943349259735 mm
         Base.y:
           type: QUANTITY
-          value: -2.9999999999999467 mm
+          value: -3.0000000000000036 mm
         Base.z:
           type: QUANTITY
-          value: 246.20598588626285 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 90.0 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 1.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: -0.0
-        Rotation.Axis.z:
-          type: FLOAT
-          value: 0.0
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: -45.00000000000006 mm
-        Base.y:
-          type: QUANTITY
-          value: -59.999999999999986 mm
-        Base.z:
-          type: QUANTITY
-          value: 77.94228634059942 mm
+          value: 246.20598588626288 mm
         Rotation.Angle:
           type: QUANTITY
           value: 89.99999999999997 deg
@@ -14158,10 +14133,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -1.3492982066813695e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 1.548626350850208e-17
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: -45.00000000000007 mm
+        Base.y:
+          type: QUANTITY
+          value: -60.00000000000002 mm
+        Base.z:
+          type: QUANTITY
+          value: 77.94228634059951 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 90.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 1.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -4.0325616858772725e-17
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 5.006203005471215e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -14390,50 +14390,50 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 63.107943349259735 mm
+          value: 63.10794334925972 mm
         Base.y:
           type: QUANTITY
-          value: 5.68e-14 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 246.20598588626282 mm
+          value: 246.20598588626285 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -4.0478946200441064e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: 4.9908700713043816e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000004 mm
+          value: -45.000000000000085 mm
         Base.y:
           type: QUANTITY
-          value: -1.9999999999999858 mm
+          value: -2.0000000000000004 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059945 mm
+          value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -4.0325616858772725e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 5.006203005471215e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -14549,25 +14549,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -83.25686322579664 mm
+          value: -83.06511604184104 mm
         Base.y:
           type: QUANTITY
-          value: 30.631531350928984 mm
+          value: 31.000000000000178 mm
         Base.z:
           type: QUANTITY
-          value: 329.4256890500677 mm
+          value: 329.69749930367107 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 133.41552061613413 deg
+          value: 133.52046311207695 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.0032920233801511
+          value: 0.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.999993152095127
+          value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.001690664046083
+          value: 0.0
       group: ' Link'
     Scale:
       kind: Primitive
@@ -14634,25 +14634,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -12.29429618620278 mm
+          value: -12.21380008538505 mm
         Base.y:
           type: QUANTITY
-          value: 32.11754506233531 mm
+          value: 32.47636740727821 mm
         Base.z:
           type: QUANTITY
-          value: -2.3396895020510544 mm
+          value: -1.9833328319210095 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 6.2299488094065225 deg
+          value: 6.153300907528257 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.014174351822250669
+          value: 0.05829129412240936
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9998992413524915
+          value: 0.998294717027182
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0007712931550683983
+          value: -0.003127776391207986
       group: ' Link'
     Scale:
       kind: Primitive
@@ -14719,25 +14719,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -57.366703827564656 mm
+          value: -57.441835755739646 mm
         Base.y:
           type: QUANTITY
-          value: 30.818439694689545 mm
+          value: 31.000000000000167 mm
         Base.z:
           type: QUANTITY
-          value: 304.92898145049344 mm
+          value: 305.3645159378203 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 133.41552061613413 deg
+          value: 133.52046311207695 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.0032920233801511
+          value: 0.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.999993152095127
+          value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.001690664046083
+          value: 0.0
       group: ' Link'
     Scale:
       kind: Primitive
@@ -14917,38 +14917,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.7568226602961996 mm
+          value: -1.7568226602961978 mm
         Base.y:
           type: QUANTITY
-          value: -61.99999999999996 mm
+          value: -61.999999999999986 mm
         Base.z:
           type: QUANTITY
           value: 145.24776615886486 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 89.99999999999996 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 1.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: 0.0
-        Rotation.Axis.z:
-          type: FLOAT
-          value: -0.0
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: -1.7568226602961055 mm
-        Base.y:
-          type: QUANTITY
-          value: -10.999999999999966 mm
-        Base.z:
-          type: QUANTITY
-          value: 145.24776615886483 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -14957,10 +14932,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0
+          value: 4.197390728170737e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: -4.8682065979697135e-18
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: -1.7568226602961028 mm
+        Base.y:
+          type: QUANTITY
+          value: -11.000000000000002 mm
+        Base.z:
+          type: QUANTITY
+          value: 145.24776615886475 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 90.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 1.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 1.0349730562612776e-18
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.1653029966793642e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -15192,22 +15192,22 @@ objects:
           value: -1.7568226602962227 mm
         Base.y:
           type: QUANTITY
-          value: 3.2e-14 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 145.24776615886483 mm
+          value: 145.2477661588649 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 270.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 1.0
+          value: -1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -4.9887013275846873e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 9.999999999999997e-17
+          value: 1.8562685552671932e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -15217,22 +15217,22 @@ objects:
           value: 41.4863546794078 mm
         Base.y:
           type: QUANTITY
-          value: 8.000000000000044 mm
+          value: 7.999999999999998 mm
         Base.z:
           type: QUANTITY
-          value: 212.55324597713016 mm
+          value: 212.5532459771302 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999996 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -4.906538933387473e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: 4.90653893338612e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -15461,25 +15461,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.7568226602961943 mm
+          value: -1.7568226602961374 mm
         Base.y:
           type: QUANTITY
-          value: -62.0 mm
+          value: -62.00000000000003 mm
         Base.z:
           type: QUANTITY
-          value: 145.247766158865 mm
+          value: 145.24776615886492 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 270.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 1.0
+          value: -1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -4.98870132751519e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: 1.856268555274143e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -15489,19 +15489,19 @@ objects:
           value: 13.107943349259727 mm
         Base.y:
           type: QUANTITY
-          value: -4.999999999999947 mm
+          value: -5.0000000000000036 mm
         Base.z:
           type: QUANTITY
-          value: 246.2059858862628 mm
+          value: 246.20598588626288 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.0
+          value: 3.375682369390221e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7071067811865475
+          value: -0.7071067811865474
         Rotation.Axis.z:
           type: FLOAT
           value: 0.7071067811865476
@@ -15620,16 +15620,16 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -30.014112323437573 mm
+          value: -29.795835462878518 mm
         Base.y:
           type: QUANTITY
-          value: 32.000000000000014 mm
+          value: 32.00000000000006 mm
         Base.z:
           type: QUANTITY
-          value: -118.60002725969613 mm
+          value: -118.62101838685075 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 6.229322324186236 deg
+          value: 6.142827896076267 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.0
@@ -15818,25 +15818,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.7568226602961978 mm
+          value: -1.7568226602961907 mm
         Base.y:
           type: QUANTITY
-          value: -61.99999999999997 mm
+          value: -62.000000000000014 mm
         Base.z:
           type: QUANTITY
-          value: 145.24776615886486 mm
+          value: 145.2477661588649 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 9.813077866773592e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0
+          value: -2.9439233600320774e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -18863,25 +18863,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.9111386966923245 mm
+          value: -1.9042774799599123 mm
         Base.y:
           type: QUANTITY
-          value: 1.0000000000000142 mm
+          value: 1.0000000000000462 mm
         Base.z:
           type: QUANTITY
-          value: 21.425107695542238 mm
+          value: 21.446381600383035 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 6.229535627193393 deg
+          value: 6.146393371871863 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.008271187871976168
+          value: 0.03404022610008475
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999656918536592
+          value: 0.9994187945159335
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0004500742376046982
+          value: -0.001826520017271248
       group: ' Link'
     Scale:
       kind: Primitive
@@ -18948,25 +18948,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 2.0438372499683997 mm
+          value: 2.0178400771990552 mm
         Base.y:
           type: QUANTITY
-          value: 0.96718965865095 mm
+          value: 0.8660275244183917 mm
         Base.z:
           type: QUANTITY
-          value: 57.65856253732339 mm
+          value: 57.88873448626679 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 6.229535627193393 deg
+          value: 6.146393371871863 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.008271187871976166
+          value: 0.034040226100084746
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999656918536591
+          value: 0.9994187945159336
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.0004500742376046981
+          value: -0.0018265200172712472
       group: ' Link'
     Scale:
       kind: Primitive
@@ -19171,10 +19171,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 12.743177339703822 mm
+          value: 12.743177339703827 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999968 mm
+          value: -30.99999999999998 mm
         Base.z:
           type: QUANTITY
           value: 142.24776615886492 mm
@@ -19443,13 +19443,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.8e-15 mm
+          value: 2.6645352591003757e-15 mm
         Base.y:
           type: QUANTITY
           value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 80.00000000000003 mm
+          value: 80.00000000000001 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -19690,10 +19690,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 12.74317733970379 mm
+          value: 12.743177339703786 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999964 mm
+          value: -30.99999999999996 mm
         Base.z:
           type: QUANTITY
           value: 148.2477661588649 mm
@@ -19715,7 +19715,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 4.999999999999997 mm
+          value: 4.999999999999998 mm
         Base.y:
           type: QUANTITY
           value: 0.0 mm
@@ -19849,25 +19849,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 79.5404069543702 mm
+          value: 78.98839730612525 mm
         Base.y:
           type: QUANTITY
-          value: 0.8141023204976522 mm
+          value: 1.371728754728188e-13 mm
         Base.z:
           type: QUANTITY
-          value: 158.03194548173994 mm
+          value: 158.23074032184613 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.3464936949362 deg
+          value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.3954229095300101
+          value: -0.39457977755680285
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0015528819352551996
+          value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9184978558366462
+          value: 0.9188616866227605
       group: ' Link'
     Scale:
       kind: Primitive
@@ -19934,25 +19934,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 76.89422057570997 mm
+          value: 76.5692283744608 mm
         Base.y:
           type: QUANTITY
-          value: 0.7949987566412271 mm
+          value: 1.3789010760042497e-13 mm
         Base.z:
           type: QUANTITY
-          value: 160.53570967163685 mm
+          value: 160.52808854253055 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.3464936949362 deg
+          value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.3954229095300101
+          value: -0.39457977755680285
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0015528819352551996
+          value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9184978558366462
+          value: 0.9188616866227605
       group: ' Link'
     Scale:
       kind: Primitive
@@ -20163,7 +20163,7 @@ objects:
           value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 80.0 mm
+          value: 80.00000000000003 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -20404,13 +20404,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -2.842170943040401e-14 mm
         Base.y:
           type: QUANTITY
-          value: -3e-16 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 40.00000000000002 mm
+          value: 40.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -20429,13 +20429,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 12.743177339703676 mm
+          value: 12.743177339703735 mm
         Base.y:
           type: QUANTITY
-          value: -30.99999999999997 mm
+          value: -30.999999999999982 mm
         Base.z:
           type: QUANTITY
-          value: 160.2477661588649 mm
+          value: 160.24776615886498 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -20679,10 +20679,10 @@ objects:
           value: 12.743177339703834 mm
         Base.y:
           type: QUANTITY
-          value: -30.99999999999998 mm
+          value: -30.999999999999986 mm
         Base.z:
           type: QUANTITY
-          value: 145.24776615886503 mm
+          value: 145.24776615886498 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -20704,10 +20704,10 @@ objects:
           value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: -4e-16 mm
+          value: -4.405159474104468e-17 mm
         Base.z:
           type: QUANTITY
-          value: 87.00000000000003 mm
+          value: 87.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -27010,11 +27010,2165 @@ objects:
           type: BOOL
           value: false
       group: Pad
+- name: Claw_Base_Support
+  id: 1884
+  type_id: App::Link
+  properties:
+    ElementCount:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 0
+      group: ' Link'
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Claw Base Support001
+      group: Base
+    LinkClaimChild:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    LinkCopyOnChange:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Disabled
+      group: ' Link'
+    LinkExecute:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ''
+      group: ' Link'
+    LinkTransform:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 125.2912132573846 mm
+        Base.y:
+          type: QUANTITY
+          value: -0.16629596449998865 mm
+        Base.z:
+          type: QUANTITY
+          value: 238.92315685801796 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 8.969264186105235 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0008167672491143929
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -0.9999454362404645
+        Rotation.Axis.z:
+          type: FLOAT
+          value: -0.010414289852325617
+      group: ' Link'
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: ' Link'
+    ShowElement:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: ' Link'
+- name: Claw_Flanges
+  id: 1885
+  type_id: App::Link
+  properties:
+    ElementCount:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 0
+      group: ' Link'
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Claw Flanges001
+      group: Base
+    LinkClaimChild:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    LinkCopyOnChange:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Disabled
+      group: ' Link'
+    LinkExecute:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ''
+      group: ' Link'
+    LinkTransform:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 194.07134878945945 mm
+        Base.y:
+          type: QUANTITY
+          value: 115.2461544707228 mm
+        Base.z:
+          type: QUANTITY
+          value: 255.8527089814185 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 63.3730271714844 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.07755383307565146
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -0.12705190889439896
+        Rotation.Axis.z:
+          type: FLOAT
+          value: -0.9888595529303256
+      group: ' Link'
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: ' Link'
+    ShowElement:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: ' Link'
+- name: Claw_Flanges001
+  id: 1886
+  type_id: App::Link
+  properties:
+    ElementCount:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 0
+      group: ' Link'
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Claw Flanges002
+      group: Base
+    LinkClaimChild:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    LinkCopyOnChange:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Disabled
+      group: ' Link'
+    LinkExecute:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ''
+      group: ' Link'
+    LinkTransform:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 127.51077299445666 mm
+        Base.y:
+          type: QUANTITY
+          value: -26.83572254783234 mm
+        Base.z:
+          type: QUANTITY
+          value: 242.31059449451925 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 14.766395718536485 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: -0.06224009028511411
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -0.6052482955121725
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 0.7935998185111377
+      group: ' Link'
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: ' Link'
+    ShowElement:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: ' Link'
+- name: Claw_Axle
+  id: 1887
+  type_id: App::Link
+  properties:
+    ElementCount:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 0
+      group: ' Link'
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Claw Axle001
+      group: Base
+    LinkClaimChild:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    LinkCopyOnChange:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Disabled
+      group: ' Link'
+    LinkExecute:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ''
+      group: ' Link'
+    LinkTransform:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 80.4958369678449 mm
+        Base.y:
+          type: QUANTITY
+          value: -21.223152613556056 mm
+        Base.z:
+          type: QUANTITY
+          value: 231.85328761313866 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 8.969264186105235 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0008167672491143922
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -0.9999454362404645
+        Rotation.Axis.z:
+          type: FLOAT
+          value: -0.010414289852325617
+      group: ' Link'
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: ' Link'
+    ShowElement:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: ' Link'
+- name: Joint023
+  id: 1888
+  type_id: App::FeaturePython
+  properties:
+    Angle:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Joint
+    AngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    AngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    Detach1:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 1
+    Detach2:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 2
+    Distance:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    Distance2:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    EnableAngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableAngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    JointType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed
+      group: Joint
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed
+      group: Base
+    LengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    LengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    Offset1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Offset2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Placement1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 15.000000000000028 mm
+        Base.y:
+          type: QUANTITY
+          value: -29.000000000000007 mm
+        Base.z:
+          type: QUANTITY
+          value: 3.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 129.87845318050816 mm
+        Base.y:
+          type: QUANTITY
+          value: -2.9999999999999503 mm
+        Base.z:
+          type: QUANTITY
+          value: 241.20598588626285 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <JointObject.Joint object at 0x000001E2369BAC90>
+          freecad_type: JointObject.Joint
+      group: Base
+    Reference1:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Vertex2
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Vertex2
+      group: Joint Connector 1
+    Reference2:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Vertex16
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Vertex16
+      group: Joint Connector 2
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: Joint024
+  id: 1890
+  type_id: App::FeaturePython
+  properties:
+    Angle:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Joint
+    AngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    AngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    Detach1:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 1
+    Detach2:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 2
+    Distance:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    Distance2:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    EnableAngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableAngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    JointType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed
+      group: Joint
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed044
+      group: Base
+    LengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    LengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    Offset1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Offset2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Placement1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 175.315389351837 mm
+        Base.y:
+          type: QUANTITY
+          value: 21.13091308702635 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 130.00000000000003 mm
+        Base.y:
+          type: QUANTITY
+          value: -2.914335439641036e-15 mm
+        Base.z:
+          type: QUANTITY
+          value: 2.842170943040401e-14 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <JointObject.Joint object at 0x000001E234E3AC90>
+          freecad_type: JointObject.Joint
+      group: Base
+    Reference1:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge2
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge2
+      group: Joint Connector 1
+    Reference2:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge14
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge14
+      group: Joint Connector 2
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: Joint025
+  id: 1892
+  type_id: App::FeaturePython
+  properties:
+    Angle:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Joint
+    AngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    AngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    Detach1:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 1
+    Detach2:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 2
+    Distance:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    Distance2:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    EnableAngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableAngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    JointType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Revolute
+      group: Joint
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Revolute046
+      group: Base
+    LengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    LengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    Offset1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Offset2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Placement1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 130.00000000000003 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 2.842170943040401e-14 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 130.00000000000003 mm
+        Base.y:
+          type: QUANTITY
+          value: -2.886579864025407e-15 mm
+        Base.z:
+          type: QUANTITY
+          value: 3.000000000000057 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <JointObject.Joint object at 0x000001E230092C90>
+          freecad_type: JointObject.Joint
+      group: Base
+    Reference1:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge14
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge14
+      group: Joint Connector 1
+    Reference2:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge15
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge15
+      group: Joint Connector 2
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: Joint026
+  id: 1894
+  type_id: App::FeaturePython
+  properties:
+    Angle:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Joint
+    AngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    AngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    Detach1:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 1
+    Detach2:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 2
+    Distance:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    Distance2:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    EnableAngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableAngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    JointType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Revolute
+      group: Joint
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Revolute048
+      group: Base
+    LengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    LengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    Offset1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Offset2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 3.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Placement1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 130.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 130.00000000000003 mm
+        Base.y:
+          type: QUANTITY
+          value: -2.887149070165962e-15 mm
+        Base.z:
+          type: QUANTITY
+          value: 6.000000000000057 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <JointObject.Joint object at 0x000001E2382EB7D0>
+          freecad_type: JointObject.Joint
+      group: Base
+    Reference1:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge14
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge14
+      group: Joint Connector 1
+    Reference2:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge15
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge15
+      group: Joint Connector 2
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: Claw_LEFT
+  id: 1895
+  type_id: App::Link
+  properties:
+    ElementCount:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 0
+      group: ' Link'
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Claw LEFT001
+      group: Base
+    LinkClaimChild:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    LinkCopyOnChange:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Disabled
+      group: ' Link'
+    LinkExecute:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ''
+      group: ' Link'
+    LinkTransform:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 322.60307401174407 mm
+        Base.y:
+          type: QUANTITY
+          value: 35.63788391618599 mm
+        Base.z:
+          type: QUANTITY
+          value: 268.03931719397457 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 14.766395718536485 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: -0.06224009028511415
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -0.6052482955121725
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 0.7935998185111377
+      group: ' Link'
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: ' Link'
+    ShowElement:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: ' Link'
+- name: Claw_Axle001
+  id: 1896
+  type_id: App::Link
+  properties:
+    ElementCount:
+      kind: Primitive
+      paths:
+        .:
+          type: INT
+          value: 0
+      group: ' Link'
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Claw Axle002
+      group: Base
+    LinkClaimChild:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    LinkCopyOnChange:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Disabled
+      group: ' Link'
+    LinkExecute:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: ''
+      group: ' Link'
+    LinkTransform:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: ' Link'
+    Placement:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 128.60204641654755 mm
+        Base.y:
+          type: QUANTITY
+          value: -26.835722547824794 mm
+        Base.z:
+          type: QUANTITY
+          value: 235.39618039654698 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 14.766395718536485 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: -0.06224009028511408
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -0.6052482955121726
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 0.7935998185111377
+      group: ' Link'
+    Scale:
+      kind: Primitive
+      paths:
+        .:
+          type: FLOAT
+          value: 1.0
+      group: ' Link'
+    ShowElement:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: true
+      group: ' Link'
+- name: Joint027
+  id: 1897
+  type_id: App::FeaturePython
+  properties:
+    Angle:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Joint
+    AngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    AngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    Detach1:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 1
+    Detach2:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 2
+    Distance:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    Distance2:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    EnableAngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableAngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    JointType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed
+      group: Joint
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed045
+      group: Base
+    LengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    LengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    Offset1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Offset2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Placement1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 175.315389351837 mm
+        Base.y:
+          type: QUANTITY
+          value: 21.130913087026336 mm
+        Base.z:
+          type: QUANTITY
+          value: 10.000000000000028 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 175.31538935183252 mm
+        Base.y:
+          type: QUANTITY
+          value: 21.130913087034976 mm
+        Base.z:
+          type: QUANTITY
+          value: 3.000000000000057 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <JointObject.Joint object at 0x000001E23014A050>
+          freecad_type: JointObject.Joint
+      group: Base
+    Reference1:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge3
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge3
+      group: Joint Connector 1
+    Reference2:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge18
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge18
+      group: Joint Connector 2
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
+- name: Joint028
+  id: 1900
+  type_id: App::FeaturePython
+  properties:
+    Angle:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Joint
+    AngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    AngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 deg
+      group: Limits
+    Detach1:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 1
+    Detach2:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Joint Connector 2
+    Distance:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    Distance2:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Joint
+    EnableAngleMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableAngleMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    EnableLengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Limits
+    JointType:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed
+      group: Joint
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Fixed047
+      group: Base
+    LengthMax:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    LengthMin:
+      kind: Primitive
+      paths:
+        .:
+          type: QUANTITY
+          value: 0.0 mm
+      group: Limits
+    Offset1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 0.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Offset2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.y:
+          type: QUANTITY
+          value: 0.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 2.0 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Placement1:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: -30.000000000000057 mm
+        Base.y:
+          type: QUANTITY
+          value: 1.4210854715202004e-14 mm
+        Base.z:
+          type: QUANTITY
+          value: 2.842170943040401e-14 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 175.31538935183696 mm
+        Base.y:
+          type: QUANTITY
+          value: 21.130913087026343 mm
+        Base.z:
+          type: QUANTITY
+          value: 2.0000000000000284 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 0.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.0
+      group: Joint Connector 2
+    Proxy:
+      kind: Unknown
+      paths:
+        .:
+          type: STRING
+          value: <JointObject.Joint object at 0x000001E234E3E450>
+          freecad_type: JointObject.Joint
+      group: Base
+    Reference1:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge26
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge26
+      group: Joint Connector 1
+    Reference2:
+      kind: List
+      paths: {}
+      items:
+      - kind: Unknown
+        paths:
+          .:
+            type: STRING
+            value: <App::Link object>
+            freecad_type: App.DocumentObject
+      - kind: List
+        paths: {}
+        items:
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge2
+        - kind: Primitive
+          paths:
+            .:
+              type: STRING
+              value: Edge2
+      group: Joint Connector 2
+    Suppressed:
+      kind: Primitive
+      paths:
+        .:
+          type: BOOL
+          value: false
+      group: Base
 occurrences:
 - path: Assembly
   after: Sketch002
 - path: Assembly/Base
   after: Assembly/Joints
+- path: Assembly/Claw_Axle
+  after: Assembly/Claw_Flanges001
+- path: Assembly/Claw_Axle001
+  after: Assembly/Claw_LEFT
+- path: Assembly/Claw_Base_Support
+  after: Assembly/Group009
+- path: Assembly/Claw_Flanges
+  after: Assembly/Claw_Base_Support
+- path: Assembly/Claw_Flanges001
+  after: Assembly/Claw_Flanges
+- path: Assembly/Claw_LEFT
+  after: Assembly/Claw_Axle
 - path: Assembly/Group009
   after: Assembly/Rotating_Base
 - path: Assembly/Group009/Group002
@@ -27107,6 +29261,18 @@ occurrences:
   after: Assembly/Joints/Joint020
 - path: Assembly/Joints/Joint022
   after: Assembly/Joints/Joint021
+- path: Assembly/Joints/Joint023
+  after: Assembly/Joints/Joint022
+- path: Assembly/Joints/Joint024
+  after: Assembly/Joints/Joint023
+- path: Assembly/Joints/Joint025
+  after: Assembly/Joints/Joint024
+- path: Assembly/Joints/Joint026
+  after: Assembly/Joints/Joint025
+- path: Assembly/Joints/Joint027
+  after: Assembly/Joints/Joint026
+- path: Assembly/Joints/Joint028
+  after: Assembly/Joints/Joint027
 - path: Assembly/Origin014
   after: null
 - path: Assembly/Origin014/Origin015
