@@ -1,6 +1,6 @@
 v: 2
-timestamp: '2026-10-06T23:14:32.887252'
-uid: 5bc12526-5599-4a91-9336-48594d3c4fbb
+timestamp: '2026-10-06T23:53:22.204538'
+uid: c183500e-a90b-402e-bb1e-61bb4ce4aa66
 objects:
 - name: VarSet
   id: 1491
@@ -11,7 +11,7 @@ objects:
       paths:
         .:
           type: QUANTITY
-          value: 200.0 mm
+          value: 140.0 mm
       group: Base
     BowlDepth:
       kind: Primitive
@@ -1630,41 +1630,6 @@ objects:
           IsActive:
             type: BOOL
             value: true
-      - kind: Constraint
-        paths:
-          Type:
-            type: STRING
-            value: DistanceX
-          Value:
-            type: FLOAT
-            value: 200.0
-          First:
-            type: INT
-            value: 1
-          FirstPos:
-            type: INT
-            value: 1
-          Second:
-            type: INT
-            value: 1
-          SecondPos:
-            type: INT
-            value: 2
-          Third:
-            type: INT
-            value: -2000
-          ThirdPos:
-            type: INT
-            value: 0
-          Driving:
-            type: BOOL
-            value: true
-          IsActive:
-            type: BOOL
-            value: true
-          .:
-            type: 'NULL'
-            expression: VarSet.BaseDiameter
       - kind: Constraint
         paths:
           Type:
@@ -3568,6 +3533,2764 @@ objects:
           SecondPos:
             type: INT
             value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 40
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 23
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 41
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 40
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 42
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 40
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 41
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Symmetric
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 42
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 40
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 42
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 41
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: DistanceY
+          Value:
+            type: FLOAT
+            value: 6.0
+          First:
+            type: INT
+            value: 42
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 42
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 43
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 41
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 44
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 40
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 44
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 46
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 45
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 46
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 47
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 43
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 47
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 46
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 47
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 43
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: DistanceX
+          Value:
+            type: FLOAT
+            value: 18.0
+          First:
+            type: INT
+            value: 41
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 41
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: DistanceY
+          Value:
+            type: FLOAT
+            value: 3.0
+          First:
+            type: INT
+            value: 47
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 47
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+          .:
+            type: 'NULL'
+            expression: VarSet.PlywoodThickness
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 45
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 44
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 45
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 48
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 7
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 48
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 23
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 48
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: DistanceX
+          Value:
+            type: FLOAT
+            value: 140.0
+          First:
+            type: INT
+            value: 1
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 1
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+          .:
+            type: 'NULL'
+            expression: VarSet.BaseDiameter
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 49
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 50
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 50
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 51
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 51
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 52
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 52
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 49
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 49
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 51
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 50
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 52
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 49
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 44
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 53
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 54
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 54
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 55
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 55
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 56
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 56
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 53
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 53
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 55
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 54
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 56
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 58
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 59
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 59
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 60
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 60
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 57
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 57
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 59
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 58
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 60
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 57
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 44
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 62
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 63
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 63
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 61
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 61
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 62
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 61
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 53
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 54
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 22
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Symmetric
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 51
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 51
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: 64
+          ThirdPos:
+            type: INT
+            value: 1
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Symmetric
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 53
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 22
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: 64
+          ThirdPos:
+            type: INT
+            value: 1
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Symmetric
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 61
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 61
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: 65
+          ThirdPos:
+            type: INT
+            value: 1
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Symmetric
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 58
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 59
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: 65
+          ThirdPos:
+            type: INT
+            value: 1
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 62
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 53
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 58
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 57
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 63
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 66
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 44
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 66
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 57
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 67
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 57
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 67
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 49
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 68
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 49
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 68
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 40
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Equal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 57
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: 49
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Equal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 41
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: 49
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: DistanceX
+          Value:
+            type: FLOAT
+            value: 70.0
+          First:
+            type: INT
+            value: 62
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 62
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: DistanceX
+          Value:
+            type: FLOAT
+            value: 75.0
+          First:
+            type: INT
+            value: 56
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 56
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 55
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: -1
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Distance
+          Value:
+            type: FLOAT
+            value: 15.0
+          First:
+            type: INT
+            value: 44
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 60
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Distance
+          Value:
+            type: FLOAT
+            value: 15.0
+          First:
+            type: INT
+            value: 43
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 42
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 69
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 62
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 69
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Horizontal
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 70
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 71
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 62
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Vertical
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 71
+          FirstPos:
+            type: INT
+            value: 0
+          Second:
+            type: INT
+            value: -2000
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Distance
+          Value:
+            type: FLOAT
+            value: 15.0
+          First:
+            type: INT
+            value: 62
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 70
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: DistanceX
+          Value:
+            type: FLOAT
+            value: 5.0
+          First:
+            type: INT
+            value: 70
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 70
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 70
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 71
+          SecondPos:
+            type: INT
+            value: 1
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 70
+          FirstPos:
+            type: INT
+            value: 1
+          Second:
+            type: INT
+            value: 69
+          SecondPos:
+            type: INT
+            value: 2
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Distance
+          Value:
+            type: FLOAT
+            value: 5.0
+          First:
+            type: INT
+            value: 62
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: 69
+          SecondPos:
+            type: INT
+            value: 0
           Third:
             type: INT
             value: -2000
@@ -6844,38 +9567,6 @@ objects:
         paths:
           Type:
             type: STRING
-            value: PointOnObject
-          Value:
-            type: FLOAT
-            value: 0.0
-          First:
-            type: INT
-            value: 2
-          FirstPos:
-            type: INT
-            value: 2
-          Second:
-            type: INT
-            value: -3
-          SecondPos:
-            type: INT
-            value: 0
-          Third:
-            type: INT
-            value: -2000
-          ThirdPos:
-            type: INT
-            value: 0
-          Driving:
-            type: BOOL
-            value: true
-          IsActive:
-            type: BOOL
-            value: true
-      - kind: Constraint
-        paths:
-          Type:
-            type: STRING
             value: Vertical
           Value:
             type: FLOAT
@@ -6892,38 +9583,6 @@ objects:
           SecondPos:
             type: INT
             value: 0
-          Third:
-            type: INT
-            value: -2000
-          ThirdPos:
-            type: INT
-            value: 0
-          Driving:
-            type: BOOL
-            value: true
-          IsActive:
-            type: BOOL
-            value: true
-      - kind: Constraint
-        paths:
-          Type:
-            type: STRING
-            value: Coincident
-          Value:
-            type: FLOAT
-            value: 0.0
-          First:
-            type: INT
-            value: 0
-          FirstPos:
-            type: INT
-            value: 3
-          Second:
-            type: INT
-            value: -3
-          SecondPos:
-            type: INT
-            value: 3
           Third:
             type: INT
             value: -2000
@@ -6981,13 +9640,13 @@ objects:
             value: 2.0
           First:
             type: INT
-            value: 0
+            value: -12
           FirstPos:
             type: INT
             value: 0
           Second:
             type: INT
-            value: -3
+            value: 0
           SecondPos:
             type: INT
             value: 0
@@ -7003,9 +9662,70 @@ objects:
           IsActive:
             type: BOOL
             value: true
-          .:
-            type: 'NULL'
-            expression: <<BaseDimensions>>.Clearance
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: Coincident
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 0
+          FirstPos:
+            type: INT
+            value: 3
+          Second:
+            type: INT
+            value: -12
+          SecondPos:
+            type: INT
+            value: 3
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
+      - kind: Constraint
+        paths:
+          Type:
+            type: STRING
+            value: PointOnObject
+          Value:
+            type: FLOAT
+            value: 0.0
+          First:
+            type: INT
+            value: 2
+          FirstPos:
+            type: INT
+            value: 2
+          Second:
+            type: INT
+            value: -12
+          SecondPos:
+            type: INT
+            value: 0
+          Third:
+            type: INT
+            value: -2000
+          ThirdPos:
+            type: INT
+            value: 0
+          Driving:
+            type: BOOL
+            value: true
+          IsActive:
+            type: BOOL
+            value: true
       group: Sketch
     Label:
       kind: Primitive
@@ -11678,13 +14398,13 @@ objects:
           value: 0.08442037576069614 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.9141775430810223
+          value: -0.9141775430810222
         Rotation.Axis.y:
           type: FLOAT
           value: 0.00997767063541689
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.40519114725649796
+          value: 0.405191147256498
       group: ' Link'
     Scale:
       kind: Primitive
@@ -11770,13 +14490,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.9911864165554796e-16 mm
+          value: -2.351196098467752e-16 mm
         Base.y:
           type: QUANTITY
-          value: 1.760836671236729e-18 mm
+          value: -2.670548686625669e-18 mm
         Base.z:
           type: QUANTITY
-          value: -2.5593804495711815e-21 mm
+          value: 3.1197331118926233e-20 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.08442037576069614 deg
@@ -11785,10 +14505,10 @@ objects:
           value: -0.9141775430810222
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.009977670635416888
+          value: 0.009977670635416894
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.405191147256498
+          value: 0.40519114725649796
       group: ' Link'
     Scale:
       kind: Primitive
@@ -11855,25 +14575,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.9853213521793914 mm
+          value: -0.9850742267628283 mm
         Base.y:
           type: QUANTITY
-          value: -24.89247034786738 mm
+          value: -25.000569869858904 mm
         Base.z:
           type: QUANTITY
-          value: 0.033543417121585116 mm
+          value: 0.03368902004087473 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 0.24048014945596982 deg
+          value: 0.6685064636087605 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.32091517210579135
+          value: -0.9986892312574879
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.004044707096940133
+          value: 0.0009963359655665298
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9470993045382362
+          value: 0.05117447298186486
       group: ' Link'
     Scale:
       kind: Primitive
@@ -11940,25 +14660,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.0173135117818477 mm
+          value: -1.0179120136268855 mm
         Base.y:
           type: QUANTITY
-          value: 28.999371520407873 mm
+          value: 28.783623254095044 mm
         Base.z:
           type: QUANTITY
-          value: -0.039046640104565856 mm
+          value: -0.03875602582303251 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 0.08442037576069614 deg
+          value: 0.3604517321986788 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.9141775430810222
+          value: -0.21411391902348442
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.009977670635416887
+          value: 0.0016150589751436771
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.40519114725649796
+          value: -0.9768073613895996
       group: ' Link'
     Scale:
       kind: Primitive
@@ -12025,25 +14745,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -29.339872769282394 mm
+          value: -29.038124197158954 mm
         Base.y:
           type: QUANTITY
-          value: 31.98112332758837 mm
+          value: 31.85716102821691 mm
         Base.z:
           type: QUANTITY
-          value: -10.504775855259297 mm
+          value: -11.070562683858457 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 19.19751299241999 deg
+          value: 19.13656322559279 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005969632407915227
+          value: -0.034861528808070995
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.999920801892798
+          value: 0.9993839403213685
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.011079414739873185
+          value: -0.004051374692582399
       group: ' Link'
     Scale:
       kind: Primitive
@@ -12223,13 +14943,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -31.99999999999999 mm
+          value: -31.999999999999996 mm
         Base.y:
           type: QUANTITY
-          value: -3.552713678800501e-15 mm
+          value: 3.552713678800501e-15 mm
         Base.z:
           type: QUANTITY
-          value: -6.938893903907228e-18 mm
+          value: -5.551115123125783e-17 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -12248,13 +14968,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -32.99999999999999 mm
+          value: -33.00000000000001 mm
         Base.y:
           type: QUANTITY
-          value: -25.0 mm
+          value: -25.000000000000004 mm
         Base.z:
           type: QUANTITY
-          value: -6.945477621404837e-18 mm
+          value: -6.928987804531272e-18 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -12495,13 +15215,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -32.00000000000001 mm
+          value: -32.0 mm
         Base.y:
           type: QUANTITY
-          value: -3.552713678800501e-15 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 6.938893903907228e-18 mm
+          value: -6.938893903907228e-18 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -12520,13 +15240,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -32.99999999999999 mm
+          value: -33.00000000000001 mm
         Base.y:
           type: QUANTITY
-          value: 28.999999999999996 mm
+          value: 29.000000000000004 mm
         Base.z:
           type: QUANTITY
-          value: -6.5837174976077476e-21 mm
+          value: 6.948800003283185e-18 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -12770,10 +15490,10 @@ objects:
           value: -9.0 mm
         Base.y:
           type: QUANTITY
-          value: 3.327148908047206e-16 mm
+          value: 3.3237046027539616e-16 mm
         Base.z:
           type: QUANTITY
-          value: 2.0521336814529863e-20 mm
+          value: -4.430400924831913e-20 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -12795,10 +15515,10 @@ objects:
           value: -9.0 mm
         Base.y:
           type: QUANTITY
-          value: 3.3324158146313856e-16 mm
+          value: 3.321628585350306e-16 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -2.710505431213761e-20 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -13039,13 +15759,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.0 mm
+          value: -45.00000000000002 mm
         Base.y:
           type: QUANTITY
-          value: -61.999999999999986 mm
+          value: -62.0 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059948 mm
+          value: 77.94228634059951 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -13054,35 +15774,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.9932814416883862e-18
+          value: 5.519856300060145e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 5.366526958391809e-19
+          value: 3.4499101875375906e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000014 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -5.0 mm
+          value: -4.999999999999993 mm
         Base.z:
           type: QUANTITY
-          value: 77.9422863405995 mm
+          value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.00000000000001 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: -1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -3.833233541708435e-20
         Rotation.Axis.z:
           type: FLOAT
-          value: 3.833233541708435e-20
+          value: 0.0
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -13198,25 +15918,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -29.30409653697655 mm
+          value: -29.03274994210601 mm
         Base.y:
           type: QUANTITY
-          value: 22.981202599252015 mm
+          value: 22.85777362274381 mm
         Base.z:
           type: QUANTITY
-          value: -10.492653773591565 mm
+          value: -10.965693986932683 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 19.19751299241999 deg
+          value: 19.13656322559279 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005969632407915226
+          value: -0.034861528808071
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.999920801892798
+          value: 0.9993839403213683
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.01107941473987319
+          value: -0.004051374692582401
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13283,25 +16003,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -29.137140786215845 mm
+          value: -29.00767008519215 mm
         Base.y:
           type: QUANTITY
-          value: -19.018427466317576 mm
+          value: -19.139367602797297 mm
         Base.z:
           type: QUANTITY
-          value: -10.436084059142088 mm
+          value: -10.476306734612528 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 19.19751299241999 deg
+          value: 19.13656322559279 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005969632407915226
+          value: -0.034861528808071
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.999920801892798
+          value: 0.9993839403213683
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.011079414739873186
+          value: -0.004051374692582409
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13368,25 +16088,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 153.04195617264838 mm
+          value: 154.77961793891194 mm
         Base.y:
           type: QUANTITY
-          value: 32.80519564320889 mm
+          value: 32.829522274606354 mm
         Base.z:
           type: QUANTITY
-          value: 63.05114125917731 mm
+          value: 62.95316748915765 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.373918741640328 deg
+          value: 20.328373790229186 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005556045491116904
+          value: -0.032795815614349695
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999359662925992
+          value: 0.9994534248685958
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.009858685155067354
+          value: -0.0041576431573330675
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13569,7 +16289,7 @@ objects:
           value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -2.9999999999999787 mm
+          value: -2.999999999999986 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059948 mm
@@ -13581,23 +16301,23 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 8.433113791758558e-19
+          value: -4.293221566713447e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 6.133173666733497e-19
+          value: 2.4609359337768146e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000014 mm
+          value: -45.00000000000002 mm
         Base.y:
           type: QUANTITY
-          value: -11.999999999999986 mm
+          value: -11.99999999999999 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059948 mm
+          value: 77.9422863405995 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -13606,10 +16326,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 7.666467083416871e-19
+          value: 5.519856300060145e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 5.366526958391809e-19
+          value: 1.4872946141828722e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -13838,35 +16558,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000001 mm
+          value: -45.00000000000002 mm
         Base.y:
           type: QUANTITY
           value: -2.9999999999999822 mm
-        Base.z:
-          type: QUANTITY
-          value: 77.94228634059947 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 90.0 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 1.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: 1.4566287458492054e-18
-        Rotation.Axis.z:
-          type: FLOAT
-          value: 1.188302397929615e-18
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: -45.000000000000014 mm
-        Base.y:
-          type: QUANTITY
-          value: -53.999999999999986 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059948 mm
@@ -13878,10 +16573,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 7.666467083416871e-19
+          value: 1.6559568900180438e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 5.366526958391809e-19
+          value: 5.979844325065159e-18
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: -45.00000000000002 mm
+        Base.y:
+          type: QUANTITY
+          value: -54.0 mm
+        Base.z:
+          type: QUANTITY
+          value: 77.9422863405995 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 90.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 1.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 5.519856300060145e-18
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 1.4872946141828722e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -14110,13 +16830,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 106.04999264922057 mm
+          value: 106.04999264922074 mm
         Base.y:
           type: QUANTITY
           value: -2.999999999999954 mm
         Base.z:
           type: QUANTITY
-          value: 209.0296607161296 mm
+          value: 209.02966071612957 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -14125,23 +16845,23 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.4566287458492054e-18
+          value: 1.6559568900180438e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.188302397929615e-18
+          value: 5.979844325065159e-18
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000003 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -54.0 mm
+          value: -53.999999999999986 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059948 mm
+          value: 77.94228634059951 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -14150,10 +16870,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.3857139253275994e-17
+          value: 1.1009046731786622e-16
         Rotation.Axis.z:
           type: FLOAT
-          value: -2.207942520024059e-17
+          value: 9.659748525105255e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -14269,25 +16989,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -35.16445381827293 mm
+          value: -32.35459651669475 mm
         Base.y:
           type: QUANTITY
-          value: -25.033631997812186 mm
+          value: -25.09964432858979 mm
         Base.z:
           type: QUANTITY
-          value: -3.896728426433249 mm
+          value: -6.860852855914493 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.373918741640328 deg
+          value: 20.328373790229186 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005556045491116961
+          value: -0.03279581561434844
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999359662925992
+          value: 0.9994534248685959
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.009858685155067088
+          value: -0.004157643157333234
       group: ' Link'
     Scale:
       kind: Primitive
@@ -14354,25 +17074,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -35.38308634903092 mm
+          value: -32.387439186462935 mm
         Base.y:
           type: QUANTITY
-          value: 29.96588356424322 mm
+          value: 29.896612038190153 mm
         Base.z:
           type: QUANTITY
-          value: -3.9708078144028107 mm
+          value: -7.501717114905189 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.373918741640328 deg
+          value: 20.328373790229186 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.0055560454911169005
+          value: -0.03279581561434966
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999359662925992
+          value: 0.9994534248685958
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.009858685155067343
+          value: -0.004157643157332964
       group: ' Link'
     Scale:
       kind: Primitive
@@ -14552,38 +17272,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 106.04999264922064 mm
+          value: 106.04999264922068 mm
         Base.y:
           type: QUANTITY
           value: -2.9999999999999503 mm
         Base.z:
           type: QUANTITY
-          value: 209.02966071612963 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 89.99999999999997 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 1.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: 8.314283551965596e-17
-        Rotation.Axis.z:
-          type: FLOAT
-          value: 7.781464089668123e-18
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: -45.00000000000003 mm
-        Base.y:
-          type: QUANTITY
-          value: -60.0 mm
-        Base.z:
-          type: QUANTITY
-          value: 77.94228634059948 mm
+          value: 209.02966071612957 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -14592,10 +17287,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.3857139253275994e-17
+          value: 1.0027738945109266e-16
         Rotation.Axis.z:
           type: FLOAT
-          value: -2.207942520024059e-17
+          value: -3.0665868333667484e-19
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: -45.0 mm
+        Base.y:
+          type: QUANTITY
+          value: -59.999999999999986 mm
+        Base.z:
+          type: QUANTITY
+          value: 77.94228634059951 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 90.0 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 1.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 1.1009046731786622e-16
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 9.659748525105255e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -14824,35 +17544,35 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 106.04999264922058 mm
+          value: 106.04999264922073 mm
         Base.y:
           type: QUANTITY
-          value: 4.618527782440651e-14 mm
+          value: 4.263256414560601e-14 mm
         Base.z:
           type: QUANTITY
-          value: 209.02966071612965 mm
+          value: 209.0296607161296 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -4.05364447035667e-18
+          value: 8.187786845089217e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -7.66646708341687e-19
+          value: 1.0733053916783619e-18
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.0 mm
+          value: -44.99999999999997 mm
         Base.y:
           type: QUANTITY
-          value: -1.9999999999999858 mm
+          value: -1.999999999999972 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059951 mm
@@ -14864,10 +17584,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.3857139253275994e-17
+          value: 1.1009046731786622e-16
         Rotation.Axis.z:
           type: FLOAT
-          value: -2.207942520024059e-17
+          value: 9.659748525105255e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -14983,25 +17703,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 75.80407401661915 mm
+          value: 47.72481918123828 mm
         Base.y:
           type: QUANTITY
-          value: 24.80849835566003 mm
+          value: 32.374829581055764 mm
         Base.z:
           type: QUANTITY
-          value: 21.563009693878364 mm
+          value: 29.41965358441343 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.570425050526215 deg
+          value: 5.903563113290043 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.0064251938170009305
+          value: -0.11328720208046358
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5635033735561344
+          value: 0.9935622828196118
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.8260887754202146
+          value: 1.749822644014103e-06
       group: ' Link'
     Scale:
       kind: Primitive
@@ -15068,25 +17788,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -57.07547058401736 mm
+          value: -57.28934116489436 mm
         Base.y:
           type: QUANTITY
-          value: 31.16195796337456 mm
+          value: 31.099131398555613 mm
         Base.z:
           type: QUANTITY
-          value: 11.251969947939315 mm
+          value: 11.147954487589692 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 32.99875936839799 deg
+          value: 33.20232273723639 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.0007750324097478572
+          value: -0.019840794240383253
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999824560558338
+          value: 0.999791516487671
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.005872555262100492
+          value: -0.004823530158915468
       group: ' Link'
     Scale:
       kind: Primitive
@@ -15153,25 +17873,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 103.52133392280568 mm
+          value: 57.481854462411846 mm
         Base.y:
           type: QUANTITY
-          value: 40.31794819628494 mm
+          value: 32.00506477669766 mm
         Base.z:
           type: QUANTITY
-          value: -5.948447128992214 mm
+          value: -2.8120191508799786 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 12.375286682127436 deg
+          value: 5.903563113290043 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.23524333018351345
+          value: -0.11328720208065694
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.9674131746759457
+          value: 0.9935622828195898
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.09366069115471369
+          value: 1.7498219782876027e-06
       group: ' Link'
     Scale:
       kind: Primitive
@@ -15238,25 +17958,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -124.76301480123593 mm
+          value: -125.10172906270665 mm
         Base.y:
           type: QUANTITY
-          value: 32.41709608260088 mm
+          value: 31.45361378254724 mm
         Base.z:
           type: QUANTITY
-          value: -69.10706393331407 mm
+          value: -68.76169280776955 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 33.00481794679898 deg
+          value: 33.19560901399062 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.018907558932618633
+          value: 0.0008128057250854718
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9998212352665212
+          value: 0.9999393688058015
         Rotation.Axis.z:
           type: FLOAT
-          value: 4.153717792746428e-05
+          value: -0.01098171476175726
       group: ' Link'
     Scale:
       kind: Primitive
@@ -17327,25 +20047,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -11.570536732779226 mm
+          value: -11.685425533521169 mm
         Base.y:
           type: QUANTITY
-          value: 0.1015618112722001 mm
+          value: -0.11708536249696819 mm
         Base.z:
           type: QUANTITY
-          value: 25.103546882446086 mm
+          value: 25.432272423909883 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 33.00481794679898 deg
+          value: 33.19560901399062 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.018907558932623317
+          value: 0.0008128057250899337
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9998212352665212
+          value: 0.9999393688058015
         Rotation.Axis.z:
           type: FLOAT
-          value: 4.153717792608334e-05
+          value: -0.010981714761758594
       group: ' Link'
     Scale:
       kind: Primitive
@@ -17412,25 +20132,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.8916923060271342 mm
+          value: -3.0999887903040535 mm
         Base.y:
           type: QUANTITY
-          value: -0.06245645292109277 mm
+          value: -0.9441682295704064 mm
         Base.z:
           type: QUANTITY
-          value: 38.467721322669334 mm
+          value: 38.564035083501096 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 94.62939163325693 deg
+          value: 94.53026567150773 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.27836036127449554
+          value: 0.2695370555408638
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.26802765061534234
+          value: 0.2804515416221446
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9223213581917923
+          value: 0.921247365527915
       group: ' Link'
     Scale:
       kind: Primitive
@@ -17769,25 +20489,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 105.43739458625535 mm
+          value: 82.18933078820027 mm
         Base.y:
           type: QUANTITY
-          value: 4.767428420696085 mm
+          value: 0.9475239153274289 mm
         Base.z:
           type: QUANTITY
-          value: 65.36734233250105 mm
+          value: 66.38753678900659 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 178.73510881828662 deg
+          value: 180.06425022448428 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.10418334182667376
+          value: 0.051160942707895674
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.016362501686492115
+          value: 0.01677579740716826
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9944235012429997
+          value: 0.9985495133255
       group: ' Link'
     Scale:
       kind: Primitive
@@ -17854,25 +20574,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 102.32428439618586 mm
+          value: 83.45121434402111 mm
         Base.y:
           type: QUANTITY
-          value: 4.313847483571827 mm
+          value: 1.3620834790229541 mm
         Base.z:
           type: QUANTITY
-          value: 80.03372597939787 mm
+          value: 78.66860081073372 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 72.98712985272019 deg
+          value: 90.1019359687398 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.12394179074929167
+          value: -0.06787637624922285
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.12680081505342383
+          value: 0.034354593050290594
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.9841544522114638
+          value: -0.997102080773891
       group: ' Link'
     Scale:
       kind: Primitive
@@ -24705,25 +27425,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 184.958821405299 mm
+          value: 185.43267332442264 mm
         Base.y:
           type: QUANTITY
-          value: 2.0162577626293334 mm
+          value: 2.5868007655468688 mm
         Base.z:
           type: QUANTITY
-          value: 125.75774569469155 mm
+          value: 126.54979643428126 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.373918741640328 deg
+          value: 20.328373790229186 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005556045491116951
+          value: -0.032795815614348446
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999359662925992
+          value: 0.9994534248685959
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.009858685155067087
+          value: -0.0041576431573332314
       group: ' Link'
     Scale:
       kind: Primitive
@@ -24928,13 +27648,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000006 mm
+          value: 130.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: 11.000000000000009 mm
+          value: 11.000000000000005 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -2.842170943040401e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -25182,10 +27902,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000006 mm
+          value: 130.00000000000009 mm
         Base.y:
           type: QUANTITY
-          value: -11.000000000000002 mm
+          value: -10.999999999999995 mm
         Base.z:
           type: QUANTITY
           value: 0.0 mm
@@ -25414,10 +28134,10 @@ objects:
           value: 15.0 mm
         Base.y:
           type: QUANTITY
-          value: -29.000000000000007 mm
+          value: -28.999999999999996 mm
         Base.z:
           type: QUANTITY
-          value: 3.000000000000057 mm
+          value: 3.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -25436,13 +28156,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 172.8205024804691 mm
+          value: 172.82050248046906 mm
         Base.y:
           type: QUANTITY
           value: -2.999999999999954 mm
         Base.z:
           type: QUANTITY
-          value: 204.02966071612963 mm
+          value: 204.0296607161296 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -25570,25 +28290,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 185.96793141650315 mm
+          value: 186.3904938552402 mm
         Base.y:
           type: QUANTITY
-          value: 3.09048023686393 mm
+          value: 3.732596583358232 mm
         Base.z:
           type: QUANTITY
-          value: 128.58127472890513 mm
+          value: 129.38259033729622 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.37439074698029 deg
+          value: 20.33653470264078 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.009655670765023489
+          value: -0.037531747172629366
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9998829566241072
+          value: 0.9989055683974001
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.011867648238443412
+          value: -0.02791116942797388
       group: ' Link'
     Scale:
       kind: Primitive
@@ -28862,25 +31582,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 186.06444632029988 mm
+          value: 186.48558581473688 mm
         Base.y:
           type: QUANTITY
-          value: 2.2099299307568243 mm
+          value: 2.7834591997464644 mm
         Base.z:
           type: QUANTITY
-          value: 128.54117484879453 mm
+          value: 129.35160275916 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.37126175901794 deg
+          value: 20.32663410315582 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.00627013661201599
+          value: -0.03342668614923062
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999618700682167
+          value: 0.9994117974060039
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.006078140878743247
+          value: -0.007662627407185046
       group: ' Link'
     Scale:
       kind: Primitive
@@ -29980,25 +32700,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -34.98952891041819 mm
+          value: -31.981926509717002 mm
         Base.y:
           type: QUANTITY
-          value: 32.01157865376008 mm
+          value: 31.89244326959618 mm
         Base.z:
           type: QUANTITY
-          value: -4.331169893521441 mm
+          value: -7.8919277534183925 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.30416349760465 deg
+          value: 20.257506929692514 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005001482750426081
+          value: -0.03291191655995805
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999396008581715
+          value: 0.9994496332358058
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.009786715787124246
+          value: -0.004151671129021149
       group: ' Link'
     Scale:
       kind: Primitive
@@ -30178,13 +32898,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 164.0705024804694 mm
+          value: 164.07050248046937 mm
         Base.y:
           type: QUANTITY
-          value: -59.99999999999994 mm
+          value: -59.99999999999996 mm
         Base.z:
           type: QUANTITY
-          value: 209.0296607161302 mm
+          value: 209.02966071613017 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -30203,13 +32923,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 164.3205024804693 mm
+          value: 164.32050248046926 mm
         Base.y:
           type: QUANTITY
           value: -2.999999999999954 mm
         Base.z:
           type: QUANTITY
-          value: 209.0296607161296 mm
+          value: 209.02966071612957 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -30337,25 +33057,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 244.16309017183912 mm
+          value: 244.6727459496128 mm
         Base.y:
           type: QUANTITY
-          value: 3.2459313676734465 mm
+          value: 3.6064721865650373 mm
         Base.z:
           type: QUANTITY
-          value: 123.32957771039835 mm
+          value: 125.19616928172111 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 227.07404743895486 deg
+          value: 227.28759761897805 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.638370260175025
+          value: 0.636033586972056
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6352015473797267
+          value: -0.630459164492239
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.4347440685397235
+          value: 0.4449522650253712
       group: ' Link'
     Scale:
       kind: Primitive
@@ -30422,25 +33142,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 201.27342523580484 mm
+          value: 201.48231807931126 mm
         Base.y:
           type: QUANTITY
-          value: 3.0979748385245642 mm
+          value: 3.7663090149983844 mm
         Base.z:
           type: QUANTITY
-          value: 140.05311678368423 mm
+          value: 141.12608893294387 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.0716717314617 deg
+          value: 179.4691023395672 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.8256189782147878
+          value: 0.8203791139841362
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0019328916283053333
+          value: 0.0036108692842323395
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.564224748430555
+          value: 0.5718085964390672
       group: ' Link'
     Scale:
       kind: Primitive
@@ -30779,25 +33499,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 189.51474846772436 mm
+          value: 189.8956024836919 mm
         Base.y:
           type: QUANTITY
-          value: -17.84401502941611 mm
+          value: -17.298742012708175 mm
         Base.z:
           type: QUANTITY
-          value: 127.24849833008474 mm
+          value: 128.32754229812352 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.702008384528348 deg
+          value: 20.72864240740957 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.03995751843886801
+          value: -0.06637493167770378
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9840982441675431
+          value: 0.9785346775094231
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.1730723621684477
+          value: -0.19510062366970868
       group: ' Link'
     Scale:
       kind: Primitive
@@ -30864,25 +33584,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 192.30747700421145 mm
+          value: 192.68337236497862 mm
         Base.y:
           type: QUANTITY
-          value: -20.880318345017184 mm
+          value: -20.24376320270252 mm
         Base.z:
           type: QUANTITY
-          value: 126.15774563548408 mm
+          value: 127.34152974595396 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.788959560513916 deg
+          value: 20.705037440596197 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.029371272216092252
+          value: 0.0018986380525788178
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9805173418537616
+          value: 0.9820066637287926
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.19422427935879133
+          value: 0.18883672197374965
       group: ' Link'
     Scale:
       kind: Primitive
@@ -35217,25 +37937,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 167.57050248046926 mm
+          value: 167.57050248046917 mm
         Base.y:
           type: QUANTITY
-          value: -29.99999999999995 mm
+          value: -29.999999999999947 mm
         Base.z:
           type: QUANTITY
-          value: 220.27966071612994 mm
+          value: 220.27966071612988 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.1102002645173055e-16
+          value: -1.1231374277205713e-16
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.1116377270954463e-16
+          value: 1.1162376073454962e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -35464,13 +38184,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000006 mm
+          value: 130.0 mm
         Base.y:
           type: QUANTITY
-          value: -10.999999999999998 mm
+          value: -10.999999999999995 mm
         Base.z:
           type: QUANTITY
-          value: -2.842170943040401e-14 mm
+          value: 0.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -35489,13 +38209,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000006 mm
+          value: 129.99999999999997 mm
         Base.y:
           type: QUANTITY
-          value: -11.000000000000002 mm
+          value: -10.999999999999996 mm
         Base.z:
           type: QUANTITY
-          value: 3.0 mm
+          value: 2.9999999999999716 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -35739,10 +38459,10 @@ objects:
           value: 130.00000000000006 mm
         Base.y:
           type: QUANTITY
-          value: 10.999999999999993 mm
+          value: 11.000000000000004 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: 2.842170943040401e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -35761,13 +38481,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000009 mm
+          value: 130.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: 11.000000000000007 mm
+          value: 11.000000000000005 mm
         Base.z:
           type: QUANTITY
-          value: 3.0 mm
+          value: 2.9999999999999716 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -36011,10 +38731,10 @@ objects:
           value: 175.31538935183693 mm
         Base.y:
           type: QUANTITY
-          value: 21.130913087026386 mm
+          value: 21.13091308702635 mm
         Base.z:
           type: QUANTITY
-          value: 2.842170943040401e-14 mm
+          value: 0.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -36280,13 +39000,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 180.0 mm
+          value: 179.99999999999994 mm
         Base.y:
           type: QUANTITY
-          value: -11.000000000000028 mm
+          value: -10.999999999999998 mm
         Base.z:
           type: QUANTITY
-          value: -2.842170943040401e-14 mm
+          value: 0.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -36308,10 +39028,10 @@ objects:
           value: 175.31538935183693 mm
         Base.y:
           type: QUANTITY
-          value: 21.13091308702632 mm
+          value: 21.13091308702635 mm
         Base.z:
           type: QUANTITY
-          value: -8.526512829121202e-14 mm
+          value: 0.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -36439,25 +39159,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 243.9949116007908 mm
+          value: 244.49840052383672 mm
         Base.y:
           type: QUANTITY
-          value: 1.9928820508680807 mm
+          value: 2.3551404618094485 mm
         Base.z:
           type: QUANTITY
-          value: 123.43771214436885 mm
+          value: 125.31399230598865 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 133.02183417784804 deg
+          value: 131.89150794575144 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.6349703474696233
+          value: 0.6324589235070288
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.6381379069205756
+          value: 0.6380510275469433
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.4354224036327628
+          value: 0.43918856579221194
       group: ' Link'
     Scale:
       kind: Primitive
@@ -36832,7 +39552,7 @@ objects:
       paths:
         .:
           type: QUANTITY
-          value: 95.21035212252207 mm
+          value: 95.75773454675469 mm
       group: Size
     MapMode:
       kind: Primitive
@@ -36885,7 +39605,7 @@ objects:
       paths:
         .:
           type: QUANTITY
-          value: 87.27561396334258 mm
+          value: 87.3229963875752 mm
       group: Size
 - name: Sketch039
   id: 2199
@@ -39842,25 +42562,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.896173405750284 mm
+          value: -3.100820564631035 mm
         Base.y:
           type: QUANTITY
-          value: 0.32754758372691406 mm
+          value: 0.44866842028338694 mm
         Base.z:
           type: QUANTITY
-          value: 38.46302142036264 mm
+          value: 38.54780453825178 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 94.44245034631385 deg
+          value: 265.16604396717014 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.2738133763437458
+          value: 0.27976750845381354
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.2733892691182808
+          value: -0.2688796432655817
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.9221087476356628
+          value: 0.9216473721825061
       group: ' Link'
     Scale:
       kind: Primitive
@@ -39927,25 +42647,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 102.74697430771512 mm
+          value: 83.45516509026281 mm
         Base.y:
           type: QUANTITY
-          value: 2.9874917670896046 mm
+          value: -0.030063088534596466 mm
         Base.z:
           type: QUANTITY
-          value: 80.08242718749229 mm
+          value: 78.7151881659433 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 108.35040641324579 deg
+          value: 90.23025056858553 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.09300885723789777
+          value: 0.03431625703652925
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.09091175255264257
+          value: 0.06780063354750754
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9915061299473178
+          value: 0.997108554066988
       group: ' Link'
     Scale:
       kind: Primitive
@@ -40012,25 +42732,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -124.76301480123595 mm
+          value: -125.1017290627067 mm
         Base.y:
           type: QUANTITY
-          value: 32.41709608260061 mm
+          value: 31.453613782546963 mm
         Base.z:
           type: QUANTITY
-          value: -69.10706393331408 mm
+          value: -68.76169280776962 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 33.00481794679898 deg
+          value: 33.19560901399062 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.01890755893261545
+          value: 0.0008128057250821155
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9998212352665213
+          value: 0.9999393688058015
         Rotation.Axis.z:
           type: FLOAT
-          value: 4.153717792841276e-05
+          value: -0.010981714761756267
       group: ' Link'
     Scale:
       kind: Primitive
@@ -40097,25 +42817,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 162.31464810060078 mm
+          value: 118.24924183629575 mm
         Base.y:
           type: QUANTITY
-          value: -23.137958498337117 mm
+          value: -30.02714851154671 mm
         Base.z:
           type: QUANTITY
-          value: 3.4214896917316153 mm
+          value: -8.328426386024066 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 178.84315416075876 deg
+          value: 180.00001032561548 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.10427789468460348
+          value: 0.051164006958040555
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.02535698277868683
+          value: 0.0058337834434111805
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9942248961399569
+          value: 0.9986732255161009
       group: ' Link'
     Scale:
       kind: Primitive
@@ -40295,13 +43015,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610303 mm
+          value: 30.5249963246103 mm
         Base.y:
           type: QUANTITY
-          value: 2.842170943040401e-14 mm
+          value: 3.552713678800501e-14 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836453 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40310,20 +43030,20 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 3.449910187537592e-18
+          value: 6.930486243408851e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -4.216556895879279e-18
+          value: -4.9218718675536305e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610292 mm
+          value: 30.524996324610328 mm
         Base.y:
           type: QUANTITY
-          value: 8.000000000000036 mm
+          value: 8.000000000000034 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836453 mm
@@ -40335,10 +43055,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 8.433113791758558e-19
+          value: -4.293221566713447e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 6.133173666733497e-19
+          value: 2.4609359337768146e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -40567,13 +43287,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610285 mm
+          value: 30.524996324610292 mm
         Base.y:
           type: QUANTITY
-          value: -61.999999999999964 mm
+          value: -61.999999999999986 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836453 mm
+          value: 143.48597352836455 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40582,23 +43302,23 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.2573006016803667e-17
+          value: 8.178366598792627e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.9166167708542177e-18
+          value: 4.6569201876397535e-18
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 75.83999411937647 mm
+          value: 75.83999411937657 mm
         Base.y:
           type: QUANTITY
-          value: -10.999999999999964 mm
+          value: -10.999999999999963 mm
         Base.z:
           type: QUANTITY
-          value: 182.81218584102353 mm
+          value: 182.81218584102356 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40607,10 +43327,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.4566287458492054e-18
+          value: 1.6559568900180438e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.188302397929615e-18
+          value: 5.979844325065159e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -40842,10 +43562,10 @@ objects:
           value: 30.5249963246103 mm
         Base.y:
           type: QUANTITY
-          value: -62.0 mm
+          value: -61.99999999999998 mm
         Base.z:
           type: QUANTITY
-          value: 143.4859735283646 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40854,35 +43574,35 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -3.1049191687838314e-18
+          value: -9.713915409234672e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 4.6382125854672055e-18
+          value: 8.24109649242073e-18
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 56.04999264922063 mm
+          value: 56.04999264922071 mm
         Base.y:
           type: QUANTITY
-          value: -4.999999999999954 mm
+          value: -4.99999999999995 mm
         Base.z:
           type: QUANTITY
           value: 209.02966071612957 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 8.314283551965596e-17
+          value: 1.0027738945109266e-16
         Rotation.Axis.z:
           type: FLOAT
-          value: 7.781464089668123e-18
+          value: -3.0665868333667484e-19
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -41111,38 +43831,38 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.52499632461032 mm
         Base.y:
           type: QUANTITY
-          value: 3.197442310920451e-14 mm
+          value: 3.907985046680551e-14 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836455 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 89.99999999999997 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.5716257521004584e-18
+          value: 5.1518658800561366e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 3.400078151495382e-17
+          value: -1.0549058706781611e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -20.000000000000007 mm
+          value: -20.000000000000004 mm
         Base.y:
           type: QUANTITY
-          value: 2.0000000000000075 mm
+          value: 2.0000000000000107 mm
         Base.z:
           type: QUANTITY
-          value: 34.64101615137754 mm
+          value: 34.641016151377535 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -41151,10 +43871,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -6.133173666733497e-19
         Rotation.Axis.z:
           type: FLOAT
-          value: 3.833233541708435e-20
+          value: -6.133173666733497e-19
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -41408,10 +44128,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 43.52499632461032 mm
+          value: 43.52499632461029 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999954 mm
+          value: -30.999999999999957 mm
         Base.z:
           type: QUANTITY
           value: 140.98597352836458 mm
@@ -41655,13 +44375,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.842170943040401e-14 mm
+          value: 1.4210854715202004e-14 mm
         Base.y:
           type: QUANTITY
-          value: 1.1102230246251565e-16 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 39.999999999999986 mm
+          value: 40.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -41680,7 +44400,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 43.5249963246103 mm
+          value: 43.52499632461033 mm
         Base.y:
           type: QUANTITY
           value: -30.999999999999826 mm
@@ -41927,19 +44647,19 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.524996324610328 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999982 mm
+          value: -30.999999999999975 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836464 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 3.469446951953614e-17
+          value: -1.3877787807814457e-17
         Rotation.Axis.y:
           type: FLOAT
           value: -0.7071067811865468
@@ -41952,25 +44672,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610285 mm
+          value: 30.52499632461032 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999964 mm
+          value: -30.99999999999998 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836455 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.2573006016803669e-17
+          value: 8.178366598792625e-18
         Rotation.Axis.z:
           type: FLOAT
-          value: 7.819796425085208e-18
+          value: 1.446998869593302e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -42199,22 +44919,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610314 mm
+          value: 30.524996324610285 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999975 mm
+          value: -30.999999999999982 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836453 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -8.646512325571896e-18
+          value: -2.5153490401663697e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.7071067811865468
+          value: 0.7071067811865469
         Rotation.Axis.z:
           type: FLOAT
           value: 0.7071067811865482
@@ -42224,25 +44944,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610292 mm
+          value: 30.52499632461032 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999968 mm
+          value: -30.999999999999975 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836455 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 89.99999999999997 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.5716257521004584e-18
+          value: 5.1518658800561366e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 3.400078151495382e-17
+          value: -1.0549058706781611e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -43686,25 +46406,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 331.2235205045987 mm
+          value: 332.40042890220917 mm
         Base.y:
           type: QUANTITY
-          value: 11.00814062656115 mm
+          value: 10.727060870688973 mm
         Base.z:
           type: QUANTITY
-          value: 87.78400936743883 mm
+          value: 91.19015934688332 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.72655591267354 deg
+          value: 20.63523880992651 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.029562794501137524
+          value: 0.0020225185433321536
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9804055113365149
+          value: 0.9818849503640595
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.19475901653651492
+          value: 0.1894672891749665
       group: ' Link'
     Scale:
       kind: Primitive
@@ -43771,25 +46491,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 331.2933267994075 mm
+          value: 332.4113452918579 mm
         Base.y:
           type: QUANTITY
-          value: -6.4249025140335 mm
+          value: -6.704936691556399 mm
         Base.z:
           type: QUANTITY
-          value: 87.80880215522434 mm
+          value: 91.39466500759346 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.637246125665 deg
+          value: 20.66121903789323 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.04017536960815113
+          value: -0.06670685441228327
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9840032877628698
+          value: 0.9783943556623405
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.17356114008818646
+          value: -0.19569026644800727
       group: ' Link'
     Scale:
       kind: Primitive
@@ -43856,25 +46576,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 329.8400397084433 mm
+          value: 331.0271140201655 mm
         Base.y:
           type: QUANTITY
-          value: -6.436021762577218 mm
+          value: -6.749827446502812 mm
         Base.z:
           type: QUANTITY
-          value: 84.08216385864267 mm
+          value: 87.6420807504995 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.306055469857405 deg
+          value: 20.257665760891662 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005782269042912786
+          value: -0.03314656522127422
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999339513315493
+          value: 0.9994420521469711
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.009932690430609325
+          value: -0.004109697590235433
       group: ' Link'
     Scale:
       kind: Primitive
@@ -43941,25 +46661,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 329.7702334136346 mm
+          value: 331.0161976305168 mm
         Base.y:
           type: QUANTITY
-          value: 10.997021378017408 mm
+          value: 10.682170115742558 mm
         Base.z:
           type: QUANTITY
-          value: 84.05737107085716 mm
+          value: 87.43757508978936 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.306055469857405 deg
+          value: 20.257665760891662 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.005782269042912786
+          value: -0.03314656522127422
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999339513315493
+          value: 0.9994420521469711
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.009932690430609325
+          value: -0.004109697590235433
       group: ' Link'
     Scale:
       kind: Primitive
@@ -44164,25 +46884,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 8.716600265340775 mm
+          value: 8.716600265340752 mm
         Base.y:
           type: QUANTITY
           value: -5.5 mm
         Base.z:
           type: QUANTITY
-          value: 94.25000000000009 mm
+          value: 94.24999999999997 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 119.99999999999999 deg
+          value: 120.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.577350269189626
+          value: -0.5773502691896257
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5773502691896257
+          value: -0.5773502691896258
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.5773502691896258
+          value: -0.5773502691896257
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -44298,25 +47018,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 305.97420656130225 mm
+          value: 307.33802491316027 mm
         Base.y:
           type: QUANTITY
-          value: 13.433580005358667 mm
+          value: 13.132888877740262 mm
         Base.z:
           type: QUANTITY
-          value: 78.36659347879893 mm
+          value: 81.28540336913433 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 21.373918741640328 deg
+          value: 20.328373790229186 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.00555604549111693
+          value: -0.03279581561434844
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.9999359662925992
+          value: 0.999453424868596
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.00985868515506707
+          value: -0.004157643157333231
       group: ' Link'
     Scale:
       kind: Primitive
@@ -44383,25 +47103,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 308.2482145041433 mm
+          value: 309.43447405465156 mm
         Base.y:
           type: QUANTITY
-          value: -8.55000860278232 mm
+          value: -8.798806911215154 mm
         Base.z:
           type: QUANTITY
-          value: 83.9835962190431 mm
+          value: 87.16805760152431 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 179.8819329090653 deg
+          value: 179.33680199335126 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.982655550753016
+          value: 0.9843225886280026
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0018282247866511906
+          value: -0.000733709612579654
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.1854311898479229
+          value: -0.1763760278123774
       group: ' Link'
     Scale:
       kind: Primitive
@@ -48531,25 +51251,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -8.716600265340738 mm
+          value: -8.716600265340757 mm
         Base.y:
           type: QUANTITY
-          value: -5.500000000000028 mm
+          value: -5.5 mm
         Base.z:
           type: QUANTITY
-          value: 94.25000000000006 mm
+          value: 94.25000000000003 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 119.99999999999999 deg
+          value: 120.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.577350269189626
+          value: -0.5773502691896257
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5773502691896257
+          value: -0.5773502691896258
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.5773502691896258
+          value: -0.5773502691896257
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -48778,13 +51498,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.842170943040401e-14 mm
+          value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: 1.7763568394002505e-15 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 6.000000000000028 mm
+          value: 5.999999999999972 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -48803,10 +51523,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000006 mm
+          value: 130.00000000000009 mm
         Base.y:
           type: QUANTITY
-          value: -11.000000000000002 mm
+          value: -10.999999999999995 mm
         Base.z:
           type: QUANTITY
           value: 0.0 mm
@@ -49075,13 +51795,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000006 mm
+          value: 130.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: 11.000000000000009 mm
+          value: 11.000000000000005 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -2.842170943040401e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49322,13 +52042,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 175.31538935183696 mm
+          value: 175.31538935183698 mm
         Base.y:
           type: QUANTITY
-          value: 21.130913087026336 mm
+          value: 21.13091308702635 mm
         Base.z:
           type: QUANTITY
-          value: 15.000000000000028 mm
+          value: 15.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49347,10 +52067,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.00000000000003 mm
+          value: 30.0 mm
         Base.y:
           type: QUANTITY
-          value: 7.105427357601002e-15 mm
+          value: 1.7763568394002505e-15 mm
         Base.z:
           type: QUANTITY
           value: 0.0 mm
@@ -49594,10 +52314,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.0 mm
+          value: 30.000000000000057 mm
         Base.y:
           type: QUANTITY
-          value: 1.4210854715202004e-14 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
           value: 0.0 mm
@@ -49622,7 +52342,7 @@ objects:
           value: 175.31538935183698 mm
         Base.y:
           type: QUANTITY
-          value: 21.130913087026357 mm
+          value: 21.130913087026343 mm
         Base.z:
           type: QUANTITY
           value: 15.0 mm
@@ -49866,13 +52586,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -8.716600265340755 mm
+          value: -8.716600265340759 mm
         Base.y:
           type: QUANTITY
           value: -1.4999999999999716 mm
         Base.z:
           type: QUANTITY
-          value: 94.24999999999997 mm
+          value: 94.25000000000003 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
@@ -50138,19 +52858,19 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 8.716600265340778 mm
+          value: 8.716600265340752 mm
         Base.y:
           type: QUANTITY
           value: -1.4999999999999716 mm
         Base.z:
           type: QUANTITY
-          value: 94.25000000000003 mm
+          value: 94.24999999999997 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.5265566588595902e-16
+          value: 2.7755575615628914e-17
         Rotation.Axis.y:
           type: FLOAT
           value: -0.7071067811865477
@@ -50410,35 +53130,35 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.3929314612081782 mm
+          value: 1.3929314612081711 mm
         Base.y:
           type: QUANTITY
-          value: -6.994405055138486e-15 mm
+          value: 6.994405055138486e-15 mm
         Base.z:
           type: QUANTITY
-          value: 86.0 mm
+          value: 85.99999999999999 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.00000000000003 deg
+          value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 5.551115123125783e-17
+          value: 5.5511151231257815e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0
+          value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 5.5511151231257815e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 2.192690473634684e-15 mm
+          value: 5.190292640122607e-15 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: 3.552713678800501e-15 mm
         Base.z:
           type: QUANTITY
           value: 86.00000000000003 mm
@@ -50682,22 +53402,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -5.883071807488705e-13 mm
+          value: -5.951350523503152e-13 mm
         Base.y:
           type: QUANTITY
-          value: -3.552713678800501e-13 mm
+          value: -3.410605131648481e-13 mm
         Base.z:
           type: QUANTITY
-          value: 91.20000000000002 mm
+          value: 91.19999999999999 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 119.99999999999773 deg
+          value: 119.9999999999977 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.5773502691896525
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5773502691896124
+          value: -0.5773502691896125
         Rotation.Axis.z:
           type: FLOAT
           value: -0.5773502691896125
@@ -50710,22 +53430,22 @@ objects:
           value: 30.5249963246103 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999968 mm
+          value: -30.99999999999998 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836455 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -3.265914977535587e-17
+          value: 6.961152111742515e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -5.36652695839181e-18
+          value: -9.966407208441929e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -50954,38 +53674,38 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.392931461208177 mm
+          value: 1.3929314612081822 mm
         Base.y:
           type: QUANTITY
-          value: -1.0658141036401503e-14 mm
+          value: -3.330669073875469e-16 mm
         Base.z:
           type: QUANTITY
-          value: 85.99999999999997 mm
+          value: 86.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.0
+          value: 1.6653345369377346e-16
         Rotation.Axis.y:
           type: FLOAT
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -6.938893903907228e-18
+          value: 2.7755575615628907e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -1.4432899320127035e-15 mm
+          value: -2.220446049250313e-15 mm
         Base.y:
           type: QUANTITY
           value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 86.0 mm
+          value: 86.00000000000001 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -51226,22 +53946,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -5.919709167301335e-13 mm
+          value: -5.906386491005833e-13 mm
         Base.y:
           type: QUANTITY
-          value: -3.552713678800501e-13 mm
+          value: -3.410605131648481e-13 mm
         Base.z:
           type: QUANTITY
-          value: 91.19999999999999 mm
+          value: 91.20000000000002 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 119.99999999999773 deg
+          value: 119.9999999999977 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.5773502691896524
+          value: 0.5773502691896526
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5773502691896125
+          value: -0.5773502691896124
         Rotation.Axis.z:
           type: FLOAT
           value: -0.5773502691896124
@@ -51254,10 +53974,10 @@ objects:
           value: 30.5249963246103 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999968 mm
+          value: -30.999999999999982 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836455 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -51266,10 +53986,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.912783537312509e-17
+          value: -1.9526993276008265e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.0541392239698196e-17
+          value: 8.24109649242073e-18
       group: Joint Connector 2
     Proxy:
       kind: Unknown
@@ -51333,6 +54053,17 @@ objects:
         .:
           type: BOOL
           value: false
+      group: Base
+- name: Group014
+  id: 2489
+  type_id: App::DocumentObjectGroup
+  properties:
+    Label:
+      kind: Primitive
+      paths:
+        .:
+          type: STRING
+          value: Base/Rotary
       group: Base
 occurrences:
 - path: Assembly
@@ -51539,106 +54270,10 @@ occurrences:
   after: Assembly/Origin014/Y_Axis007
 - path: Assembly/Rotating_Base
   after: Assembly/Base
-- path: Body022
-  after: Group011
-- path: Body022/Origin047
-  after: null
-- path: Body022/Origin047/Origin048
-  after: Body022/Origin047/YZ_Plane023
-- path: Body022/Origin047/XY_Plane023
-  after: Body022/Origin047/Z_Axis023
-- path: Body022/Origin047/XZ_Plane023
-  after: Body022/Origin047/XY_Plane023
-- path: Body022/Origin047/X_Axis023
-  after: null
-- path: Body022/Origin047/YZ_Plane023
-  after: Body022/Origin047/XZ_Plane023
-- path: Body022/Origin047/Y_Axis023
-  after: Body022/Origin047/X_Axis023
-- path: Body022/Origin047/Z_Axis023
-  after: Body022/Origin047/Y_Axis023
-- path: Body022/Pad035
-  after: Body022/Origin047
-- path: Body022/Pad035/Sketch049
-  after: null
-- path: Body023
-  after: Body022
-- path: Body023/Origin049
-  after: null
-- path: Body023/Origin049/Origin050
-  after: Body023/Origin049/YZ_Plane024
-- path: Body023/Origin049/XY_Plane024
-  after: Body023/Origin049/Z_Axis024
-- path: Body023/Origin049/XZ_Plane024
-  after: Body023/Origin049/XY_Plane024
-- path: Body023/Origin049/X_Axis024
-  after: null
-- path: Body023/Origin049/YZ_Plane024
-  after: Body023/Origin049/XZ_Plane024
-- path: Body023/Origin049/Y_Axis024
-  after: Body023/Origin049/X_Axis024
-- path: Body023/Origin049/Z_Axis024
-  after: Body023/Origin049/Y_Axis024
-- path: Body023/Pad036
-  after: Body023/Origin049
-- path: Body023/Pad036/Sketch050
-  after: null
 - path: Group
   after: Assembly
-- path: Group/Body
-  after: null
-- path: Group/Body/Binder
-  after: Group/Body/Origin
-- path: Group/Body/Origin
-  after: null
-- path: Group/Body/Origin/Origin001
-  after: Group/Body/Origin/YZ_Plane
-- path: Group/Body/Origin/XY_Plane
-  after: Group/Body/Origin/Z_Axis
-- path: Group/Body/Origin/XZ_Plane
-  after: Group/Body/Origin/XY_Plane
-- path: Group/Body/Origin/X_Axis
-  after: null
-- path: Group/Body/Origin/YZ_Plane
-  after: Group/Body/Origin/XZ_Plane
-- path: Group/Body/Origin/Y_Axis
-  after: Group/Body/Origin/X_Axis
-- path: Group/Body/Origin/Z_Axis
-  after: Group/Body/Origin/Y_Axis
-- path: Group/Body/Pad
-  after: Group/Body/Binder
-- path: Group/Body/Pad/Sketch003
-  after: null
-- path: Group/Body/Pocket
-  after: Group/Body/Pad
-- path: Group/Body/Pocket/Sketch004
-  after: null
-- path: Group/Body001
-  after: Group/Body
-- path: Group/Body001/Binder001
-  after: Group/Body001/Origin002
-- path: Group/Body001/Origin002
-  after: null
-- path: Group/Body001/Origin002/Origin003
-  after: Group/Body001/Origin002/YZ_Plane001
-- path: Group/Body001/Origin002/XY_Plane001
-  after: Group/Body001/Origin002/Z_Axis001
-- path: Group/Body001/Origin002/XZ_Plane001
-  after: Group/Body001/Origin002/XY_Plane001
-- path: Group/Body001/Origin002/X_Axis001
-  after: null
-- path: Group/Body001/Origin002/YZ_Plane001
-  after: Group/Body001/Origin002/XZ_Plane001
-- path: Group/Body001/Origin002/Y_Axis001
-  after: Group/Body001/Origin002/X_Axis001
-- path: Group/Body001/Origin002/Z_Axis001
-  after: Group/Body001/Origin002/Y_Axis001
-- path: Group/Body001/Pad001
-  after: Group/Body001/Binder001
-- path: Group/Body001/Pad001/Sketch005
-  after: null
 - path: Group/Body002
-  after: Group/Body001
+  after: null
 - path: Group/Body002/Binder002
   after: Group/Body002/Origin004
 - path: Group/Body002/Origin004
@@ -52081,6 +54716,104 @@ occurrences:
   after: Group011/Body017/Origin037
 - path: Group011/Body017/Sketch038
   after: Group011/Body017/Sketch037
+- path: Group011/Body022
+  after: Group011/Body023
+- path: Group011/Body022/Origin047
+  after: null
+- path: Group011/Body022/Origin047/Origin048
+  after: Group011/Body022/Origin047/YZ_Plane023
+- path: Group011/Body022/Origin047/XY_Plane023
+  after: Group011/Body022/Origin047/Z_Axis023
+- path: Group011/Body022/Origin047/XZ_Plane023
+  after: Group011/Body022/Origin047/XY_Plane023
+- path: Group011/Body022/Origin047/X_Axis023
+  after: null
+- path: Group011/Body022/Origin047/YZ_Plane023
+  after: Group011/Body022/Origin047/XZ_Plane023
+- path: Group011/Body022/Origin047/Y_Axis023
+  after: Group011/Body022/Origin047/X_Axis023
+- path: Group011/Body022/Origin047/Z_Axis023
+  after: Group011/Body022/Origin047/Y_Axis023
+- path: Group011/Body022/Pad035
+  after: Group011/Body022/Origin047
+- path: Group011/Body022/Pad035/Sketch049
+  after: null
+- path: Group011/Body023
+  after: Group011/Body016
+- path: Group011/Body023/Origin049
+  after: null
+- path: Group011/Body023/Origin049/Origin050
+  after: Group011/Body023/Origin049/YZ_Plane024
+- path: Group011/Body023/Origin049/XY_Plane024
+  after: Group011/Body023/Origin049/Z_Axis024
+- path: Group011/Body023/Origin049/XZ_Plane024
+  after: Group011/Body023/Origin049/XY_Plane024
+- path: Group011/Body023/Origin049/X_Axis024
+  after: null
+- path: Group011/Body023/Origin049/YZ_Plane024
+  after: Group011/Body023/Origin049/XZ_Plane024
+- path: Group011/Body023/Origin049/Y_Axis024
+  after: Group011/Body023/Origin049/X_Axis024
+- path: Group011/Body023/Origin049/Z_Axis024
+  after: Group011/Body023/Origin049/Y_Axis024
+- path: Group011/Body023/Pad036
+  after: Group011/Body023/Origin049
+- path: Group011/Body023/Pad036/Sketch050
+  after: null
+- path: Group014
+  after: Group011
+- path: Group014/Body
+  after: null
+- path: Group014/Body/Binder
+  after: Group014/Body/Origin
+- path: Group014/Body/Origin
+  after: null
+- path: Group014/Body/Origin/Origin001
+  after: Group014/Body/Origin/YZ_Plane
+- path: Group014/Body/Origin/XY_Plane
+  after: Group014/Body/Origin/Z_Axis
+- path: Group014/Body/Origin/XZ_Plane
+  after: Group014/Body/Origin/XY_Plane
+- path: Group014/Body/Origin/X_Axis
+  after: null
+- path: Group014/Body/Origin/YZ_Plane
+  after: Group014/Body/Origin/XZ_Plane
+- path: Group014/Body/Origin/Y_Axis
+  after: Group014/Body/Origin/X_Axis
+- path: Group014/Body/Origin/Z_Axis
+  after: Group014/Body/Origin/Y_Axis
+- path: Group014/Body/Pad
+  after: Group014/Body/Binder
+- path: Group014/Body/Pad/Sketch003
+  after: null
+- path: Group014/Body/Pocket
+  after: Group014/Body/Pad
+- path: Group014/Body/Pocket/Sketch004
+  after: null
+- path: Group014/Body001
+  after: Group014/Body
+- path: Group014/Body001/Binder001
+  after: Group014/Body001/Origin002
+- path: Group014/Body001/Origin002
+  after: null
+- path: Group014/Body001/Origin002/Origin003
+  after: Group014/Body001/Origin002/YZ_Plane001
+- path: Group014/Body001/Origin002/XY_Plane001
+  after: Group014/Body001/Origin002/Z_Axis001
+- path: Group014/Body001/Origin002/XZ_Plane001
+  after: Group014/Body001/Origin002/XY_Plane001
+- path: Group014/Body001/Origin002/X_Axis001
+  after: null
+- path: Group014/Body001/Origin002/YZ_Plane001
+  after: Group014/Body001/Origin002/XZ_Plane001
+- path: Group014/Body001/Origin002/Y_Axis001
+  after: Group014/Body001/Origin002/X_Axis001
+- path: Group014/Body001/Origin002/Z_Axis001
+  after: Group014/Body001/Origin002/Y_Axis001
+- path: Group014/Body001/Pad001
+  after: Group014/Body001/Binder001
+- path: Group014/Body001/Pad001/Sketch005
+  after: null
 - path: Sketch
   after: VarSet
 - path: Sketch002
