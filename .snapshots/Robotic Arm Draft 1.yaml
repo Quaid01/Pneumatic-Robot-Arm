@@ -1,6 +1,6 @@
 v: 2
-timestamp: '2026-10-08T18:02:24.648419'
-uid: 33a51909-2d64-4a5f-be54-bf8f6317780d
+timestamp: '2026-10-08T18:14:17.429283'
+uid: 4e4dc9a3-0d2d-4634-96dd-05ceafca6a54
 objects:
 - name: VarSet
   id: 1491
@@ -12523,22 +12523,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 94.07256324311363 mm
+          value: 94.07256324311365 mm
         Base.y:
           type: QUANTITY
-          value: 59.55440692336995 mm
+          value: 59.55440692336998 mm
         Base.z:
           type: QUANTITY
           value: -92.50762939453124 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 45.2318993156554 deg
+          value: 45.23189931565536 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.0
+          value: 5.539793712300392e-16
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.0157069687686385e-15
+          value: -9.016576136925677e-16
         Rotation.Axis.z:
           type: FLOAT
           value: 1.0
@@ -12608,7 +12608,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 55.73456500731055 mm
+          value: 55.73456500731056 mm
         Base.y:
           type: QUANTITY
           value: 97.58331554919776 mm
@@ -12617,7 +12617,7 @@ objects:
           value: -92.50762939453125 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 45.2318993156554 deg
+          value: 45.23189931565536 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.0
@@ -12693,25 +12693,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 85.02181768157716 mm
+          value: 85.02181768157722 mm
         Base.y:
           type: QUANTITY
           value: 130.6585387625006 mm
         Base.z:
           type: QUANTITY
-          value: -27.20929806931998 mm
+          value: -27.20929806932 mm
         Rotation.Angle:
           type: QUANTITY
           value: 67.81315637034005 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.30178351912634044
+          value: 0.3017835191263404
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7244198754363301
+          value: -0.7244198754363304
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.6197923455936944
+          value: 0.6197923455936942
       group: ' Link'
     Scale:
       kind: Primitive
@@ -12778,25 +12778,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 90.34653965877203 mm
+          value: 90.34653965877206 mm
         Base.y:
           type: QUANTITY
-          value: 125.37674589780228 mm
+          value: 125.37674589780231 mm
         Base.z:
           type: QUANTITY
-          value: -27.20929806931994 mm
+          value: -27.20929806931995 mm
         Rotation.Angle:
           type: QUANTITY
           value: 67.81315637034005 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.30178351912634044
+          value: 0.3017835191263404
         Rotation.Axis.y:
           type: FLOAT
           value: -0.7244198754363302
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.6197923455936944
+          value: 0.6197923455936943
       group: ' Link'
     Scale:
       kind: Primitive
@@ -12863,25 +12863,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 121.58490859164856 mm
+          value: 121.58490859164864 mm
         Base.y:
           type: QUANTITY
-          value: 94.39022775823886 mm
+          value: 94.39022775823888 mm
         Base.z:
           type: QUANTITY
-          value: -27.209298069319942 mm
+          value: -27.209298069320003 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 67.81315637034005 deg
+          value: 67.81315637034002 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.3017835191263405
+          value: 0.3017835191263406
         Rotation.Axis.y:
           type: FLOAT
           value: -0.7244198754363304
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.6197923455936944
+          value: 0.6197923455936943
       group: ' Link'
     Scale:
       kind: Primitive
@@ -12948,25 +12948,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 50.67123310791116 mm
+          value: 50.67123310791132 mm
         Base.y:
           type: QUANTITY
-          value: 95.64173841532522 mm
+          value: 95.64173841532521 mm
         Base.z:
           type: QUANTITY
-          value: 153.7310227658164 mm
+          value: 153.73102276581636 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 73.07856417334902 deg
+          value: 73.0785641733491 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.3160828765613082
+          value: 0.31608287656130757
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7653798618198372
+          value: -0.7653798618198383
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.5606115252698395
+          value: 0.5606115252698383
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13033,22 +13033,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 83.45174745433067 mm
+          value: 83.4517474543308 mm
         Base.y:
           type: QUANTITY
-          value: 48.8472677577563 mm
+          value: 48.84726775775627 mm
         Base.z:
           type: QUANTITY
-          value: -45.77952452813771 mm
+          value: -45.77952452813783 mm
         Rotation.Angle:
           type: QUANTITY
           value: 57.643241054433126 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.25123159864673766
+          value: 0.2512315986467375
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6030719103687933
+          value: -0.6030719103687936
         Rotation.Axis.z:
           type: FLOAT
           value: 0.7570911139126774
@@ -13118,25 +13118,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 45.11374921852774 mm
+          value: 45.11374921852777 mm
         Base.y:
           type: QUANTITY
-          value: 86.87617638358408 mm
+          value: 86.87617638358401 mm
         Base.z:
           type: QUANTITY
-          value: -45.77952452813773 mm
+          value: -45.77952452813779 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 57.643241054433126 deg
+          value: 57.6432410544331 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.2512315986467372
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6030719103687936
+          value: -0.6030719103687937
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7570911139126774
+          value: 0.7570911139126772
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13203,25 +13203,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 92.25337957680603 mm
+          value: 92.25337957680625 mm
         Base.y:
           type: QUANTITY
-          value: 137.94887701304646 mm
+          value: 137.9488770130466 mm
         Base.z:
           type: QUANTITY
-          value: 45.31314892132259 mm
+          value: 45.313148921323 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 73.14201808025474 deg
+          value: 73.1420180802549 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.31820090487948893
+          value: 0.3182009048794892
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7638291863778827
+          value: -0.7638291863778838
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.5615275221849558
+          value: 0.5615275221849544
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13288,25 +13288,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 119.61789024571354 mm
+          value: 119.6178902457137 mm
         Base.y:
           type: QUANTITY
-          value: 165.53579968996175 mm
+          value: 165.53579968996172 mm
         Base.z:
           type: QUANTITY
-          value: 53.7016263759581 mm
+          value: 53.701626375958085 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 98.13173230583607 deg
+          value: 98.13173230583604 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.3585766754942264
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.8607496902014504
+          value: -0.8607496902014506
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.36129314774794086
+          value: 0.3612931477479404
       group: ' Link'
     Scale:
       kind: Primitive
@@ -13373,13 +13373,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 58.37922609351868 mm
+          value: 58.37922609351876 mm
         Base.y:
           type: QUANTITY
-          value: 103.7994027470511 mm
+          value: 103.79940274705106 mm
         Base.z:
           type: QUANTITY
-          value: 51.91326708275825 mm
+          value: 51.913267082758104 mm
         Rotation.Angle:
           type: QUANTITY
           value: 57.643241054433126 deg
@@ -13458,25 +13458,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.39133086516567 mm
+          value: 30.391330865165642 mm
         Base.y:
           type: QUANTITY
-          value: 75.58402879441294 mm
+          value: 75.58402879441299 mm
         Base.z:
           type: QUANTITY
-          value: -203.94418439322263 mm
+          value: -203.94418439322257 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 45.70563993509146 deg
+          value: 45.70563993509143 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.05823214718051857
+          value: 0.058232147180518626
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.13978405755564466
+          value: -0.13978405755564446
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9884682262409991
+          value: 0.988468226240999
       group: ' Link'
     Scale:
       kind: Primitive
@@ -15547,25 +15547,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 52.99866838524786 mm
+          value: 52.99866838524785 mm
         Base.y:
           type: QUANTITY
-          value: 54.35596932045239 mm
+          value: 54.35596932045242 mm
         Base.z:
           type: QUANTITY
-          value: -61.87572199166987 mm
+          value: -61.87572199166982 mm
         Rotation.Angle:
           type: QUANTITY
           value: 225.14094148404462 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.05930295025907235
+          value: -0.05930295025907213
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.023260004566891545
+          value: -0.023260004566891666
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9979690036660047
+          value: 0.9979690036660048
       group: ' Link'
     Scale:
       kind: Primitive
@@ -15632,25 +15632,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 48.23547999151461 mm
+          value: 48.23547999151464 mm
         Base.y:
           type: QUANTITY
-          value: 49.751701691564094 mm
+          value: 49.75170169156413 mm
         Base.z:
           type: QUANTITY
-          value: -5.856982663745279 mm
+          value: -5.856982663745313 mm
         Rotation.Angle:
           type: QUANTITY
           value: 225.14094148404462 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.059302950259072354
+          value: -0.05930295025907213
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.023260004566891552
+          value: -0.023260004566891666
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.9979690036660047
+          value: 0.9979690036660048
       group: ' Link'
     Scale:
       kind: Primitive
@@ -15717,25 +15717,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 73.49460181714392 mm
+          value: 73.4946018171442 mm
         Base.y:
           type: QUANTITY
-          value: 75.0085714225344 mm
+          value: 75.00857142253443 mm
         Base.z:
           type: QUANTITY
-          value: 100.42212022000179 mm
+          value: 100.42212022000196 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 218.99593242527513 deg
+          value: 218.99593242527507 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.4834089868896453
+          value: -0.4834089868896469
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.19963590728447136
+          value: -0.1996359072844714
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.8523269653818496
+          value: 0.8523269653818488
       group: ' Link'
     Scale:
       kind: Primitive
@@ -15802,25 +15802,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 64.47703152329386 mm
+          value: 64.47703152329412 mm
         Base.y:
           type: QUANTITY
-          value: 65.99141987487761 mm
+          value: 65.99141987487765 mm
         Base.z:
           type: QUANTITY
-          value: 108.06094667881604 mm
+          value: 108.06094667881612 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 218.99593242527513 deg
+          value: 218.99593242527507 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.48340898688964523
+          value: -0.48340898688964656
         Rotation.Axis.y:
           type: FLOAT
           value: -0.19963590728447134
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.8523269653818496
+          value: 0.8523269653818489
       group: ' Link'
     Scale:
       kind: Primitive
@@ -21909,25 +21909,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 69.65869125853509 mm
+          value: 69.65869125853517 mm
         Base.y:
           type: QUANTITY
-          value: 71.86138695088093 mm
+          value: 71.8613869508809 mm
         Base.z:
           type: QUANTITY
-          value: 209.31958905060083 mm
+          value: 209.31958905060063 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 57.643241054433155 deg
+          value: 57.6432410544331 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.2512315986467376
+          value: 0.2512315986467375
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6030719103687932
+          value: -0.6030719103687935
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7570911139126775
+          value: 0.7570911139126774
       group: ' Link'
     Scale:
       kind: Primitive
@@ -21994,25 +21994,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 66.1806947219953 mm
+          value: 66.18069472199292 mm
         Base.y:
           type: QUANTITY
-          value: 72.54139754371066 mm
+          value: 72.54139754371273 mm
         Base.z:
           type: QUANTITY
-          value: 211.59538301303846 mm
+          value: 211.59538301303812 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 56.66617392178373 deg
+          value: 56.66617392178261 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.2621188215125042
+          value: 0.2621188215125165
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6096562151793137
+          value: -0.6096562151793217
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7480728725880457
+          value: 0.7480728725880349
       group: ' Link'
     Scale:
       kind: Primitive
@@ -25286,25 +25286,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 70.25109799753162 mm
+          value: 70.25109799752745 mm
         Base.y:
           type: QUANTITY
-          value: 68.5392797287536 mm
+          value: 68.53927972875854 mm
         Base.z:
           type: QUANTITY
-          value: 211.58129495665025 mm
+          value: 211.58129495664983 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 58.575265586435414 deg
+          value: 58.57526558643328 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.24133603698122572
+          value: 0.24133603698124978
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5970815819503067
+          value: -0.5970815819503235
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7650166676288274
+          value: 0.7650166676288066
       group: ' Link'
     Scale:
       kind: Primitive
@@ -26404,25 +26404,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 45.119230280166896 mm
+          value: 45.119230280167244 mm
         Base.y:
           type: QUANTITY
-          value: 91.14161914260382 mm
+          value: 91.14161914260394 mm
         Base.z:
           type: QUANTITY
-          value: -45.684828894648504 mm
+          value: -45.68482889464853 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 58.01340170369069 deg
+          value: 58.01340170369072 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.2537742950652601
+          value: 0.25377429506525995
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6091755565457315
+          value: -0.6091755565457323
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7513346447963974
+          value: 0.7513346447963967
       group: ' Link'
     Scale:
       kind: Primitive
@@ -26489,19 +26489,19 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 91.82316723467702 mm
+          value: 91.82316723467703 mm
         Base.y:
           type: QUANTITY
-          value: 95.62598271572072 mm
+          value: 95.62598271572065 mm
         Base.z:
           type: QUANTITY
-          value: 258.8360461116488 mm
+          value: 258.83604611164867 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 68.35805097341819 deg
+          value: 68.35805097341812 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.30368748935846496
+          value: -0.3036874893584649
         Rotation.Axis.y:
           type: FLOAT
           value: 0.728990283662677
@@ -26574,25 +26574,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 66.19551910718988 mm
+          value: 66.19551910718997 mm
         Base.y:
           type: QUANTITY
-          value: 69.79003937150136 mm
+          value: 69.79003937150138 mm
         Base.z:
           type: QUANTITY
-          value: 231.0874643670297 mm
+          value: 231.08746436702958 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 68.35805097341819 deg
+          value: 68.35805097341809 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.3036874893584649
+          value: -0.30368748935846507
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.7289902836626772
+          value: 0.728990283662677
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.613471331956565
+          value: 0.6134713319565649
       group: ' Link'
     Scale:
       kind: Primitive
@@ -26659,25 +26659,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 75.96110904324856 mm
+          value: 75.9611090432461 mm
         Base.y:
           type: QUANTITY
-          value: 67.86867054926299 mm
+          value: 67.86867054926475 mm
         Base.z:
           type: QUANTITY
-          value: 214.25810625095656 mm
+          value: 214.25810625095613 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 56.66617392178373 deg
+          value: 56.66617392178258 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.2621188215125044
+          value: 0.2621188215125165
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6096562151793138
+          value: -0.6096562151793216
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7480728725880456
+          value: 0.7480728725880349
       group: ' Link'
     Scale:
       kind: Primitive
@@ -26744,25 +26744,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 96.01548225542841 mm
+          value: 96.01548225542342 mm
         Base.y:
           type: QUANTITY
-          value: 49.03943596249944 mm
+          value: 49.039435962503184 mm
         Base.z:
           type: QUANTITY
-          value: 214.78968234505018 mm
+          value: 214.78968234504882 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 58.575265586435414 deg
+          value: 58.57526558643328 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.2413360369812258
+          value: 0.2413360369812497
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5970815819503067
+          value: -0.5970815819503236
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7650166676288274
+          value: 0.7650166676288065
       group: ' Link'
     Scale:
       kind: Primitive
@@ -28576,22 +28576,22 @@ objects:
         paths:
           Type:
             type: STRING
-            value: DistanceX
+            value: Distance
           Value:
             type: FLOAT
-            value: 30.0
+            value: 1.0
           First:
             type: INT
-            value: 2
+            value: -9
           FirstPos:
             type: INT
-            value: 2
+            value: 0
           Second:
             type: INT
-            value: 2
+            value: 3
           SecondPos:
             type: INT
-            value: 1
+            value: 0
           Third:
             type: INT
             value: -2000
@@ -28611,16 +28611,16 @@ objects:
             value: Distance
           Value:
             type: FLOAT
-            value: 2.0
+            value: 11.0
           First:
             type: INT
-            value: -5
+            value: -9
           FirstPos:
             type: INT
-            value: 1
+            value: 0
           Second:
             type: INT
-            value: 3
+            value: 1
           SecondPos:
             type: INT
             value: 0
@@ -31026,22 +31026,22 @@ objects:
           value: 91.62349540176781 mm
         Base.y:
           type: QUANTITY
-          value: 96.01744987602424 mm
+          value: 96.01744987602419 mm
         Base.z:
           type: QUANTITY
-          value: 258.82089219847006 mm
+          value: 258.8208921984699 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 140.06378861534375 deg
+          value: 140.06378861534367 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.17964140849913293
+          value: 0.1796414084991329
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.4365043095995327
+          value: 0.43650430959953235
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.8815854763172333
+          value: 0.8815854763172334
       group: ' Link'
     Scale:
       kind: Primitive
@@ -34426,22 +34426,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 48.49502940460537 mm
+          value: 48.4950294046054 mm
         Base.y:
           type: QUANTITY
-          value: 49.49409560191568 mm
+          value: 49.4940956019157 mm
         Base.z:
           type: QUANTITY
-          value: -5.856086617653095 mm
+          value: -5.856086617653141 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 135.30529381598805 deg
+          value: 135.30529381598808 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.025445218237203675
+          value: -0.025445218237203467
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.05828692309992898
+          value: -0.05828692309992894
         Rotation.Axis.z:
           type: FLOAT
           value: 0.9979755385100398
@@ -34511,25 +34511,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 64.73588326142887 mm
+          value: 64.73588326142911 mm
         Base.y:
           type: QUANTITY
-          value: 65.73311202520259 mm
+          value: 65.7331120252026 mm
         Base.z:
           type: QUANTITY
-          value: 108.06160289451569 mm
+          value: 108.06160289451573 mm
         Rotation.Angle:
           type: QUANTITY
           value: 141.2061264283872 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.20053297886406898
+          value: -0.20053297886407012
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.4826850648313969
+          value: -0.4826850648313978
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.8525266286613065
+          value: 0.8525266286613057
       group: ' Link'
     Scale:
       kind: Primitive
@@ -34596,22 +34596,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 117.10542793275751 mm
+          value: 117.10542793275745 mm
         Base.y:
           type: QUANTITY
-          value: 74.96462896269138 mm
+          value: 74.96462896269144 mm
         Base.z:
           type: QUANTITY
-          value: -196.77596871074073 mm
+          value: -196.77596871074076 mm
         Rotation.Angle:
           type: QUANTITY
           value: 225.14928902282085 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.058791897310272456
+          value: -0.05879189731027231
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.02449190899921494
+          value: -0.024491908999214947
         Rotation.Axis.z:
           type: FLOAT
           value: 0.9979697686825151
@@ -34681,25 +34681,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 158.36441291383082 mm
+          value: 158.364412913831 mm
         Base.y:
           type: QUANTITY
-          value: 116.5589568193978 mm
+          value: 116.55895681939784 mm
         Base.z:
           type: QUANTITY
-          value: 97.68589171459237 mm
+          value: 97.6858917145928 mm
         Rotation.Angle:
           type: QUANTITY
           value: 219.092605545706 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.48293444894543947
+          value: -0.4829344489454408
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.20118395760788968
+          value: -0.20118395760789004
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.8522319714860453
+          value: 0.8522319714860443
       group: ' Link'
     Scale:
       kind: Primitive
@@ -36094,25 +36094,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 138.66740564635145 mm
+          value: 138.66740564635148 mm
         Base.y:
           type: QUANTITY
-          value: 157.48420438027284 mm
+          value: 157.48420438027276 mm
         Base.z:
           type: QUANTITY
-          value: 313.5801030585976 mm
+          value: 313.5801030585975 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 55.96894748094699 deg
+          value: 55.96894748094495 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.27679782401106545
+          value: 0.276797824011089
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6232739070129805
+          value: -0.6232739070129952
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7313771950638834
+          value: 0.7313771950638619
       group: ' Link'
     Scale:
       kind: Primitive
@@ -36179,25 +36179,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 152.70528755044313 mm
+          value: 152.70528755044316 mm
         Base.y:
           type: QUANTITY
-          value: 143.55085931970035 mm
+          value: 143.55085931970024 mm
         Base.z:
           type: QUANTITY
-          value: 313.58814727826916 mm
+          value: 313.5881472782691 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 55.93013257318204 deg
+          value: 55.93013257317843 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.2772632935194736
+          value: 0.27726329351951634
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6235431326587695
+          value: -0.6235431326587958
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.730971290667987
+          value: 0.7309712906679483
       group: ' Link'
     Scale:
       kind: Primitive
@@ -36267,22 +36267,22 @@ objects:
           value: 140.37692916497244 mm
         Base.y:
           type: QUANTITY
-          value: 159.2047174563511 mm
+          value: 159.20471745635095 mm
         Base.z:
           type: QUANTITY
-          value: 310.3993226363858 mm
+          value: 310.39932263638576 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 57.67308673798781 deg
+          value: 57.67308673798788 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.6132950316648216
+          value: 0.6132950316648212
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.2531255333571405
+          value: -0.25312553335714116
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.7481956084460191
+          value: -0.7481956084460192
       group: ' Link'
     Scale:
       kind: Primitive
@@ -36349,25 +36349,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 135.23761226840878 mm
+          value: 135.23761226840887 mm
         Base.y:
           type: QUANTITY
-          value: 153.5930135027787 mm
+          value: 153.59301350277866 mm
         Base.z:
           type: QUANTITY
-          value: 287.03925413198095 mm
+          value: 287.0392541319807 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 57.643241054433126 deg
+          value: 57.6432410544331 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.2512315986467376
+          value: 0.2512315986467375
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.6030719103687932
+          value: -0.6030719103687935
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.7570911139126776
+          value: 0.7570911139126772
       group: ' Link'
     Scale:
       kind: Primitive
@@ -36434,25 +36434,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 154.4148110690641 mm
+          value: 154.41481106906411 mm
         Base.y:
           type: QUANTITY
-          value: 145.2713723957786 mm
+          value: 145.27137239577843 mm
         Base.z:
           type: QUANTITY
-          value: 310.40736685605737 mm
+          value: 310.40736685605725 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 57.67308673798778 deg
+          value: 57.67308673798788 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.6132950316648218
+          value: 0.6132950316648212
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.2531255333571406
+          value: -0.25312553335714116
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.748195608446019
+          value: -0.7481956084460192
       group: ' Link'
     Scale:
       kind: Primitive
@@ -36519,25 +36519,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 148.33064798116354 mm
+          value: 148.33064798116362 mm
         Base.y:
           type: QUANTITY
-          value: 135.55307376395672 mm
+          value: 135.55307376395666 mm
         Base.z:
           type: QUANTITY
-          value: 291.84893084088765 mm
+          value: 291.84893084088736 mm
         Rotation.Angle:
           type: QUANTITY
           value: 193.9128918957073 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.8826222472359462
+          value: 0.8826222472359463
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.3676884868317958
+          value: 0.36768848683179545
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.2928875984665666
+          value: 0.29288759846656665
       group: ' Link'
     Scale:
       kind: Primitive
@@ -40338,13 +40338,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.524996324610314 mm
         Base.y:
           type: QUANTITY
-          value: -61.999999999999964 mm
+          value: -62.0 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40353,10 +40353,10 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.0000000000000001e-16
+          value: 7.850462293418875e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -40366,10 +40366,10 @@ objects:
           value: -20.000000000000014 mm
         Base.y:
           type: QUANTITY
-          value: -5.5 mm
+          value: -5.500000000000008 mm
         Base.z:
           type: QUANTITY
-          value: 34.641016151377535 mm
+          value: 34.64101615137753 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40378,17 +40378,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 1.570092458683775e-16
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x0000027431D2EC50>
+          value: <JointObject.Joint object at 0x000002744EDB1AD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -40610,13 +40610,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.524996324610285 mm
         Base.y:
           type: QUANTITY
-          value: 3.2e-14 mm
+          value: 3.552713678800501e-15 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40625,23 +40625,23 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.0000000000000001e-16
+          value: 7.850462293418875e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -20.00000000000003 mm
+          value: -20.0 mm
         Base.y:
           type: QUANTITY
-          value: 2.500000000000007 mm
+          value: 2.4999999999999933 mm
         Base.z:
           type: QUANTITY
-          value: 34.641016151377535 mm
+          value: 34.64101615137753 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40650,17 +40650,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743EA49910>
+          value: <JointObject.Joint object at 0x000002744EDB2E50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -40882,7 +40882,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000014 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
           value: -62.000000000000014 mm
@@ -40897,23 +40897,23 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 3.0000000000000004e-16
+          value: -3.925231146709437e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000004 mm
+          value: -45.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: -5.499999999999989 mm
+          value: -5.5000000000000115 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059945 mm
+          value: 77.94228634059942 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -40922,17 +40922,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 1.570092458683775e-16
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002744041A8D0>
+          value: <JointObject.Joint object at 0x000002744EDB1590>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41154,10 +41154,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000002 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: -7.105427357601002e-15 mm
         Base.z:
           type: QUANTITY
           value: 77.9422863405995 mm
@@ -41169,23 +41169,23 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 3.0000000000000004e-16
+          value: -3.925231146709437e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000005 mm
+          value: -45.000000000000014 mm
         Base.y:
           type: QUANTITY
-          value: 2.500000000000025 mm
+          value: 2.499999999999997 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059945 mm
+          value: 77.94228634059944 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -41194,17 +41194,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000001e-16
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743D635750>
+          value: <JointObject.Joint object at 0x000002744EDB22D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41426,10 +41426,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000036 mm
+          value: -45.00000000000004 mm
         Base.y:
           type: QUANTITY
-          value: 2.13e-14 mm
+          value: -1.4210854715202004e-14 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059945 mm
@@ -41441,7 +41441,7 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0
+          value: -3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
           value: 0.0
@@ -41451,22 +41451,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000014 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -7.499999999999972 mm
+          value: -7.500000000000009 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059948 mm
+          value: 77.9422863405995 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.00000000000001 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 1.1775693440128312e-16
         Rotation.Axis.z:
           type: FLOAT
           value: 0.0
@@ -41476,7 +41476,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5146E50>
+          value: <JointObject.Joint object at 0x000002744EDB2D90>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41701,32 +41701,32 @@ objects:
           value: -45.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: 1.24e-14 mm
+          value: -7.105427357601002e-15 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059945 mm
+          value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.00000000000001 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 9.999999999999997e-17
+          value: 3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 1.1775693440128312e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000002 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -51.49999999999997 mm
+          value: -51.500000000000014 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059951 mm
@@ -41738,17 +41738,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0
+          value: 3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: -3.925231146709437e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B4C590>
+          value: <JointObject.Joint object at 0x000002743ECAFD10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -41970,7 +41970,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.52499632461027 mm
+          value: 30.524996324610314 mm
+        Base.y:
+          type: QUANTITY
+          value: -30.999999999999957 mm
+        Base.z:
+          type: QUANTITY
+          value: 143.48597352836455 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 180.00000000000003 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: -2.7755575615628914e-17
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -0.7071067811865468
+        Rotation.Axis.z:
+          type: FLOAT
+          value: -0.7071067811865482
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 30.524996324610285 mm
         Base.y:
           type: QUANTITY
           value: -30.99999999999997 mm
@@ -41979,48 +42004,23 @@ objects:
           value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.00000000000003 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: -0.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: -0.7071067811865467
-        Rotation.Axis.z:
-          type: FLOAT
-          value: -0.7071067811865483
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: 30.524996324610328 mm
-        Base.y:
-          type: QUANTITY
-          value: -31.0 mm
-        Base.z:
-          type: QUANTITY
-          value: 143.48597352836458 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418876e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: 7.850462293418876e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743EB35290>
+          value: <JointObject.Joint object at 0x000002743ECAE4D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -42267,13 +42267,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 43.5249963246103 mm
+          value: 43.52499632461031 mm
         Base.y:
           type: QUANTITY
-          value: -30.99999999999997 mm
+          value: -30.999999999999915 mm
         Base.z:
           type: QUANTITY
-          value: 140.98597352836458 mm
+          value: 140.98597352836464 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -42292,7 +42292,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E6D2990>
+          value: <JointObject.Joint object at 0x000002743ECAD650>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -42542,10 +42542,10 @@ objects:
           value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: -7e-16 mm
+          value: -9.992007221626409e-16 mm
         Base.z:
           type: QUANTITY
-          value: 80.00000000000003 mm
+          value: 80.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -42564,7 +42564,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B518DD10>
+          value: <JointObject.Joint object at 0x000002743ECADB50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -42786,25 +42786,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.3656878425082333 mm
+          value: 0.3656878425082368 mm
         Base.y:
           type: QUANTITY
-          value: 1.4210854715202004e-14 mm
+          value: 6.661338147750939e-16 mm
         Base.z:
           type: QUANTITY
-          value: 86.59999999999998 mm
+          value: 86.6 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.7071067811865476
+          value: -0.7071067811865477
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7071067811865476
+          value: -0.7071067811865475
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.3492982066813692e-16
+          value: 1.3983635960152374e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -42814,10 +42814,10 @@ objects:
           value: 1.4210854715202004e-14 mm
         Base.y:
           type: QUANTITY
-          value: 4.884981308350689e-15 mm
+          value: 6.328271240363392e-15 mm
         Base.z:
           type: QUANTITY
-          value: 86.60000000000001 mm
+          value: 86.60000000000002 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -42836,7 +42836,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B512D150>
+          value: <JointObject.Joint object at 0x000002743ECADAD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -43061,22 +43061,22 @@ objects:
           value: 30.5249963246103 mm
         Base.y:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: 2.842170943040401e-14 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836453 mm
+          value: 143.48597352836455 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 270.0 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.0
+          value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.0000000000000006e-16
+          value: -3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418875e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
@@ -43086,7 +43086,7 @@ objects:
           value: 30.524996324610257 mm
         Base.y:
           type: QUANTITY
-          value: 7.50000000000003 mm
+          value: 7.499999999999984 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836453 mm
@@ -43095,10 +43095,10 @@ objects:
           value: 240.00000000000003 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.5773502691896256
+          value: 0.5773502691896257
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.5773502691896258
+          value: 0.5773502691896257
         Rotation.Axis.z:
           type: FLOAT
           value: 0.5773502691896258
@@ -43108,7 +43108,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5143A90>
+          value: <JointObject.Joint object at 0x00000273B7B65150>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -43330,38 +43330,38 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.52499632461027 mm
         Base.y:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: -2.4868995751603507e-14 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -9.999999999999986e-17
+          value: -7.850462293418877e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.9999999999999972e-16
+          value: -1.5700924586837754e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 75.83999411937646 mm
+          value: 75.83999411937647 mm
         Base.y:
           type: QUANTITY
-          value: 7.500000000000044 mm
+          value: 7.4999999999999645 mm
         Base.z:
           type: QUANTITY
-          value: 182.81218584102356 mm
+          value: 182.81218584102362 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.00000000000001 deg
@@ -43370,7 +43370,7 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0
+          value: -3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
           value: 0.0
@@ -43380,7 +43380,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743EB34CD0>
+          value: <JointObject.Joint object at 0x00000273B7B65B90>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -43602,38 +43602,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610285 mm
+          value: 30.524996324610314 mm
         Base.y:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: -3.552713678800501e-15 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836458 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 90.0 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 1.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: -9.999999999999997e-17
-        Rotation.Axis.z:
-          type: FLOAT
-          value: -9.999999999999997e-17
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: 106.04999264922057 mm
-        Base.y:
-          type: QUANTITY
-          value: 7.5000000000000515 mm
-        Base.z:
-          type: QUANTITY
-          value: 209.02966071612965 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.00000000000001 deg
@@ -43642,7 +43617,32 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.0
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: -3.925231146709438e-17
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 106.04999264922056 mm
+        Base.y:
+          type: QUANTITY
+          value: 7.499999999999954 mm
+        Base.z:
+          type: QUANTITY
+          value: 209.02966071612963 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 90.00000000000001 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 1.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: -3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
           value: 0.0
@@ -43652,7 +43652,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5189ED0>
+          value: <JointObject.Joint object at 0x00000273B7B9AAD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -43874,38 +43874,38 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.52499632461027 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999982 mm
+          value: -31.000000000000004 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836464 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.0 deg
+          value: 180.00000000000003 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.0
+          value: 1.3877787807814454e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7071067811865468
+          value: -0.7071067811865469
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.7071067811865483
+          value: -0.7071067811865482
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.52499632461027 mm
         Base.y:
           type: QUANTITY
-          value: -30.99999999999997 mm
+          value: -30.999999999999986 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
           value: 89.99999999999997 deg
@@ -43914,17 +43914,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.9999999999999972e-16
+          value: 3.925231146709439e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999986e-17
+          value: -7.850462293418878e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E45A250>
+          value: <JointObject.Joint object at 0x000002745F4651D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44174,10 +44174,10 @@ objects:
           value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: -1.8e-15 mm
+          value: -4.440892098500626e-15 mm
         Base.z:
           type: QUANTITY
-          value: 80.00000000000006 mm
+          value: 80.00000000000003 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -44196,7 +44196,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743F64AC50>
+          value: <JointObject.Joint object at 0x000002743E8BDF10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44421,10 +44421,10 @@ objects:
           value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: 1.9984014443252818e-15 mm
         Base.z:
           type: QUANTITY
-          value: 2.0 mm
+          value: 1.999999999999993 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
@@ -44433,23 +44433,23 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -5.551115123125783e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 1.6653345369377348e-16
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 43.52499632461033 mm
+          value: 43.52499632461025 mm
         Base.y:
           type: QUANTITY
-          value: -30.99999999999969 mm
+          value: -30.99999999999963 mm
         Base.z:
           type: QUANTITY
-          value: 79.98597352836464 mm
+          value: 79.98597352836458 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -44468,7 +44468,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743D6DA090>
+          value: <JointObject.Joint object at 0x000002744EDB0810>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44690,57 +44690,57 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 106.04999264922058 mm
+          value: 106.0499926492206 mm
         Base.y:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: -1.4210854715202004e-14 mm
         Base.z:
           type: QUANTITY
-          value: 209.02966071612968 mm
+          value: 209.02966071612963 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: -3.925231146709438e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610285 mm
+          value: 30.524996324610314 mm
         Base.y:
           type: QUANTITY
-          value: -2.499999999999972 mm
+          value: -2.500000000000004 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: -3.925231146709438e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x0000027461043190>
+          value: <JointObject.Joint object at 0x000002743E8BC9D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -44965,35 +44965,10 @@ objects:
           value: 106.0499926492206 mm
         Base.y:
           type: QUANTITY
-          value: -2.999999999999983 mm
+          value: -3.000000000000014 mm
         Base.z:
           type: QUANTITY
           value: 209.02966071612968 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 89.99999999999997 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 1.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: -9.999999999999989e-17
-        Rotation.Axis.z:
-          type: FLOAT
-          value: -9.999999999999989e-17
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: 30.524996324610278 mm
-        Base.y:
-          type: QUANTITY
-          value: -59.499999999999986 mm
-        Base.z:
-          type: QUANTITY
-          value: 143.4859735283646 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -45002,17 +44977,42 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: 0.0
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 30.524996324610314 mm
+        Base.y:
+          type: QUANTITY
+          value: -59.5 mm
+        Base.z:
+          type: QUANTITY
+          value: 143.48597352836458 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 90.00000000000001 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 1.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 0.0
+        Rotation.Axis.z:
+          type: FLOAT
+          value: -3.925231146709438e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743297FAD0>
+          value: <JointObject.Joint object at 0x000002743E8BD090>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -45234,16 +45234,16 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.36568784250822706 mm
+          value: 0.36568784250822617 mm
         Base.y:
           type: QUANTITY
-          value: 2.220446049250312e-16 mm
+          value: -2.8199664825478976e-14 mm
         Base.z:
           type: QUANTITY
-          value: 86.6 mm
+          value: 86.59999999999997 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 179.99999999999997 deg
+          value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: -5.551115123125783e-17
@@ -45252,29 +45252,29 @@ objects:
           value: -1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.1102230246251565e-16
+          value: 5.551115123125783e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.842170943040401e-14 mm
+          value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: 7.882583474838611e-15 mm
+          value: -4.218847493575595e-15 mm
         Base.z:
           type: QUANTITY
-          value: 86.60000000000002 mm
+          value: 86.6 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.1102230246251565e-16
+          value: 8.326672684688674e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 2.7755575615628914e-17
         Rotation.Axis.z:
           type: FLOAT
           value: 1.0
@@ -45284,7 +45284,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E5169D0>
+          value: <JointObject.Joint object at 0x000002743E8BE350>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -45509,10 +45509,35 @@ objects:
           value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -61.999999999999986 mm
+          value: -62.000000000000014 mm
         Base.z:
           type: QUANTITY
-          value: 77.9422863405995 mm
+          value: 77.94228634059945 mm
+        Rotation.Angle:
+          type: QUANTITY
+          value: 90.00000000000001 deg
+        Rotation.Axis.x:
+          type: FLOAT
+          value: 1.0
+        Rotation.Axis.y:
+          type: FLOAT
+          value: 3.925231146709438e-17
+        Rotation.Axis.z:
+          type: FLOAT
+          value: 7.850462293418876e-17
+      group: Joint Connector 1
+    Placement2:
+      kind: Placement
+      paths:
+        Base.x:
+          type: QUANTITY
+          value: 56.049992649220556 mm
+        Base.y:
+          type: QUANTITY
+          value: -5.500000000000025 mm
+        Base.z:
+          type: QUANTITY
+          value: 209.02966071612968 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -45521,42 +45546,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 2.000000000000001e-16
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
           value: 0.0
-      group: Joint Connector 1
-    Placement2:
-      kind: Placement
-      paths:
-        Base.x:
-          type: QUANTITY
-          value: 56.0499926492206 mm
-        Base.y:
-          type: QUANTITY
-          value: -5.499999999999966 mm
-        Base.z:
-          type: QUANTITY
-          value: 209.02966071612974 mm
-        Rotation.Angle:
-          type: QUANTITY
-          value: 89.99999999999997 deg
-        Rotation.Axis.x:
-          type: FLOAT
-          value: 1.0
-        Rotation.Axis.y:
-          type: FLOAT
-          value: -9.999999999999989e-17
-        Rotation.Axis.z:
-          type: FLOAT
-          value: -9.999999999999989e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E494250>
+          value: <JointObject.Joint object at 0x000002743E8BDBD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -45778,57 +45778,57 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 4.9404924595819466e-14 mm
+          value: 3.7969627442180354e-14 mm
         Base.y:
           type: QUANTITY
-          value: -2.842170943040401e-14 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 91.80000000000001 mm
+          value: 91.79999999999998 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 120.00000000000001 deg
+          value: 119.99999999999999 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.5773502691896257
+          value: 0.577350269189626
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5773502691896257
+          value: -0.5773502691896258
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.5773502691896257
+          value: -0.5773502691896258
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.0 mm
+          value: -45.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999996 mm
+          value: -31.000000000000004 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 89.99999999999997 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 3.925231146709438e-17
+          value: -3.925231146709438e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 2.7476618026966064e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E517410>
+          value: <JointObject.Joint object at 0x000002743E8BE590>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -46050,13 +46050,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 5.007105841059456e-14 mm
+          value: 6.339373470609644e-14 mm
         Base.y:
           type: QUANTITY
-          value: 1.4210854715202004e-14 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 91.8 mm
+          value: 91.80000000000001 mm
         Rotation.Angle:
           type: QUANTITY
           value: 120.00000000000001 deg
@@ -46065,7 +46065,7 @@ objects:
           value: 0.5773502691896258
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.5773502691896258
+          value: -0.577350269189626
         Rotation.Axis.z:
           type: FLOAT
           value: -0.5773502691896257
@@ -46078,29 +46078,29 @@ objects:
           value: 30.5249963246103 mm
         Base.y:
           type: QUANTITY
-          value: -30.999999999999975 mm
+          value: -30.999999999999943 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 89.99999999999997 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.1775693440128312e-16
+          value: -3.925231146709438e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.570092458683775e-16
+          value: 5.887846720064157e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B513FB90>
+          value: <JointObject.Joint object at 0x000002743E8BCBD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -46322,13 +46322,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 164.32050248046932 mm
+          value: 164.32050248046926 mm
         Base.y:
           type: QUANTITY
-          value: -2.9999999999999973 mm
+          value: -2.999999999999961 mm
         Base.z:
           type: QUANTITY
-          value: 209.02966071612965 mm
+          value: 209.02966071612963 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -46347,13 +46347,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 164.07050248046943 mm
+          value: 164.07050248046934 mm
         Base.y:
           type: QUANTITY
-          value: -60.00000000000002 mm
+          value: -59.99999999999996 mm
         Base.z:
           type: QUANTITY
-          value: 209.0296607161302 mm
+          value: 209.02966071613014 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -46372,7 +46372,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002746107C610>
+          value: <JointObject.Joint object at 0x00000274616E6490>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -46597,10 +46597,10 @@ objects:
           value: 15.0 mm
         Base.y:
           type: QUANTITY
-          value: -29.000000000000018 mm
+          value: -28.999999999999996 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: 2.842170943040401e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -46619,10 +46619,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 172.82050248046906 mm
+          value: 172.820502480469 mm
         Base.y:
           type: QUANTITY
-          value: -2.9999999999999867 mm
+          value: -2.9999999999999716 mm
         Base.z:
           type: QUANTITY
           value: 200.52966071612977 mm
@@ -46644,7 +46644,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E45A310>
+          value: <JointObject.Joint object at 0x0000027431E9E450>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -46875,48 +46875,48 @@ objects:
           value: 0.0 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 180.0 deg
+          value: 180.00000000000003 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: -1.1102230246251565e-16
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.0
+          value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.9999999999999995e-16
+          value: -8.326672684688674e-17
       group: Joint Connector 1
     Placement2:
       kind: Placement
       paths:
         Base.x:
           type: QUANTITY
-          value: 167.5705024804692 mm
+          value: 167.57050248046914 mm
         Base.y:
           type: QUANTITY
-          value: -29.999999999999986 mm
+          value: -29.99999999999995 mm
         Base.z:
           type: QUANTITY
-          value: 220.2796607161299 mm
+          value: 220.27966071612985 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 270.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.9999999999999987e-16
+          value: 0.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.0
+          value: 1.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: -1.177569344012831e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5142D50>
+          value: <JointObject.Joint object at 0x00000274616E6290>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -47163,10 +47163,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: -1.4210854715202004e-14 mm
         Base.y:
           type: QUANTITY
-          value: 1.24e-14 mm
+          value: -3.9968028886505635e-15 mm
         Base.z:
           type: QUANTITY
           value: 80.00000000000003 mm
@@ -47188,7 +47188,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B82590>
+          value: <JointObject.Joint object at 0x000002743E8BD110>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -47410,13 +47410,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -2.84e-14 mm
+          value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: -3.6e-15 mm
+          value: 5.329070518200751e-15 mm
         Base.z:
           type: QUANTITY
-          value: 6.0 mm
+          value: 5.999999999999972 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -47435,13 +47435,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.0000000000001 mm
+          value: 130.00000000000006 mm
         Base.y:
           type: QUANTITY
-          value: -11.00000000000001 mm
+          value: -10.999999999999995 mm
         Base.z:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: 1.4210854715202004e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -47460,7 +47460,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5144410>
+          value: <JointObject.Joint object at 0x00000273A4E227D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -47707,10 +47707,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -9.889392014169447 mm
+          value: -9.889392014169461 mm
         Base.y:
           type: QUANTITY
-          value: -6.999999999999943 mm
+          value: -6.999999999999972 mm
         Base.z:
           type: QUANTITY
           value: 94.24999999999994 mm
@@ -47719,20 +47719,20 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.3877787807814457e-17
+          value: 5.551115123125783e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7071067811865478
+          value: -0.7071067811865477
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.7071067811865474
+          value: -0.7071067811865475
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B51D3610>
+          value: <JointObject.Joint object at 0x00000273B5119490>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -47979,7 +47979,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 9.889392014169463 mm
+          value: 9.889392014169456 mm
         Base.y:
           type: QUANTITY
           value: -6.999999999999943 mm
@@ -47991,20 +47991,20 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.3877787807814457e-17
+          value: 5.551115123125783e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7071067811865478
+          value: -0.7071067811865477
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.7071067811865474
+          value: -0.7071067811865475
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743D7043D0>
+          value: <JointObject.Joint object at 0x00000273B51182D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -48251,13 +48251,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000009 mm
+          value: 130.00000000000006 mm
         Base.y:
           type: QUANTITY
-          value: 10.999999999999972 mm
+          value: 11.000000000000034 mm
         Base.z:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: 1.4210854715202004e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -48276,7 +48276,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B9B990>
+          value: <JointObject.Joint object at 0x00000273B513F710>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -48523,32 +48523,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -9.889392014169458 mm
+          value: -9.889392014169447 mm
         Base.y:
           type: QUANTITY
-          value: -2.999999999999929 mm
+          value: -2.999999999999943 mm
         Base.z:
           type: QUANTITY
-          value: 94.24999999999994 mm
+          value: 94.25 mm
         Rotation.Angle:
           type: QUANTITY
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.3877787807814457e-17
+          value: 5.551115123125783e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7071067811865478
+          value: -0.7071067811865477
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.7071067811865474
+          value: -0.7071067811865475
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E494A50>
+          value: <JointObject.Joint object at 0x00000273B513C410>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -48795,10 +48795,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 9.889392014169452 mm
+          value: 9.88939201416947 mm
         Base.y:
           type: QUANTITY
-          value: -2.999999999999929 mm
+          value: -2.9999999999999574 mm
         Base.z:
           type: QUANTITY
           value: 94.25 mm
@@ -48807,20 +48807,20 @@ objects:
           value: 180.0 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -1.3877787807814457e-17
+          value: 5.551115123125783e-17
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7071067811865478
+          value: -0.7071067811865477
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.7071067811865474
+          value: -0.7071067811865475
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B2D550>
+          value: <JointObject.Joint object at 0x000002743E8BEFD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -49042,13 +49042,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.0 mm
+          value: 130.00000000000009 mm
         Base.y:
           type: QUANTITY
-          value: -11.000000000000032 mm
+          value: -10.999999999999984 mm
         Base.z:
           type: QUANTITY
-          value: -2.84e-14 mm
+          value: 1.4210854715202004e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49070,10 +49070,10 @@ objects:
           value: 130.00000000000006 mm
         Base.y:
           type: QUANTITY
-          value: -11.000000000000021 mm
+          value: -11.000000000000005 mm
         Base.z:
           type: QUANTITY
-          value: 3.000000000000057 mm
+          value: 3.0000000000000284 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49092,7 +49092,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E494910>
+          value: <JointObject.Joint object at 0x000002743ECAEA50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -49317,10 +49317,10 @@ objects:
           value: 130.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: 10.999999999999968 mm
+          value: 11.000000000000021 mm
         Base.z:
           type: QUANTITY
-          value: -2.84e-14 mm
+          value: 0.0 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49339,13 +49339,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 130.00000000000009 mm
+          value: 130.00000000000006 mm
         Base.y:
           type: QUANTITY
-          value: 10.999999999999986 mm
+          value: 10.999999999999995 mm
         Base.z:
           type: QUANTITY
-          value: 3.0 mm
+          value: 3.0000000000000284 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49364,7 +49364,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B51472D0>
+          value: <JointObject.Joint object at 0x00000274589F6550>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -49586,13 +49586,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 175.31538935183696 mm
+          value: 175.31538935183698 mm
         Base.y:
           type: QUANTITY
-          value: 21.130913087026347 mm
+          value: 21.13091308702638 mm
         Base.z:
           type: QUANTITY
-          value: 0.0 mm
+          value: -4.263256414560601e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49614,10 +49614,10 @@ objects:
           value: 180.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: -11.000000000000018 mm
+          value: -11.000000000000002 mm
         Base.z:
           type: QUANTITY
-          value: -2.84e-14 mm
+          value: 2.842170943040401e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49636,7 +49636,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B77F50>
+          value: <JointObject.Joint object at 0x000002745F466ED0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -49858,13 +49858,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 175.31538935183693 mm
+          value: 175.31538935183696 mm
         Base.y:
           type: QUANTITY
-          value: 21.13091308702636 mm
+          value: 21.130913087026375 mm
         Base.z:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: 2.842170943040401e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49886,10 +49886,10 @@ objects:
           value: 180.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: 11.000000000000004 mm
+          value: 10.999999999999972 mm
         Base.z:
           type: QUANTITY
-          value: -2.84e-14 mm
+          value: 2.842170943040401e-14 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -49908,7 +49908,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E4584D0>
+          value: <JointObject.Joint object at 0x00000274589F45D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -50130,13 +50130,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 175.315389351837 mm
+          value: 175.31538935183698 mm
         Base.y:
           type: QUANTITY
-          value: 21.13091308702633 mm
+          value: 21.130913087026364 mm
         Base.z:
           type: QUANTITY
-          value: 15.0 mm
+          value: 15.000000000000014 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -50155,10 +50155,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.000000000000057 mm
+          value: 30.0 mm
         Base.y:
           type: QUANTITY
-          value: -1.42e-14 mm
+          value: -1.762479051592436e-15 mm
         Base.z:
           type: QUANTITY
           value: -0.5 mm
@@ -50180,7 +50180,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E518E90>
+          value: <JointObject.Joint object at 0x00000274589F4450>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -50402,10 +50402,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 175.31538935183693 mm
+          value: 175.31538935183696 mm
         Base.y:
           type: QUANTITY
-          value: 21.130913087026332 mm
+          value: 21.130913087026343 mm
         Base.z:
           type: QUANTITY
           value: 15.000000000000057 mm
@@ -50427,10 +50427,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.00000000000003 mm
+          value: 30.0 mm
         Base.y:
           type: QUANTITY
-          value: 3.5e-15 mm
+          value: -7.077671781985373e-15 mm
         Base.z:
           type: QUANTITY
           value: -0.5 mm
@@ -50452,7 +50452,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B4C110>
+          value: <JointObject.Joint object at 0x000002743ECADC90>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -50777,7 +50777,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <InvoluteGearFeature._InvoluteGear object at 0x00000274404197D0>
+          value: <InvoluteGearFeature._InvoluteGear object at 0x00000274589F7F50>
           freecad_type: InvoluteGearFeature._InvoluteGear
       group: Base
     RootFilletCoefficient:
@@ -51707,7 +51707,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <InvoluteGearFeature._InvoluteGear object at 0x00000273B7B82C50>
+          value: <InvoluteGearFeature._InvoluteGear object at 0x000002744EDB0A50>
           freecad_type: InvoluteGearFeature._InvoluteGear
       group: Base
     RootFilletCoefficient:
@@ -52488,7 +52488,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <InvoluteGearFeature._InvoluteGear object at 0x00000273B51B3B10>
+          value: <InvoluteGearFeature._InvoluteGear object at 0x00000274589F5190>
           freecad_type: InvoluteGearFeature._InvoluteGear
       group: Base
     RootFilletCoefficient:
@@ -56437,7 +56437,7 @@ objects:
           value: -95.50762939453125 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 45.2318993156554 deg
+          value: 45.23189931565536 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.0
@@ -56522,7 +56522,7 @@ objects:
           value: -95.50762939453125 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 250.35488615297652 deg
+          value: 250.35488615297666 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.0
@@ -56733,7 +56733,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.GroundedJoint object at 0x00000274613A3E10>
+          value: <JointObject.GroundedJoint object at 0x00000274589F7AD0>
           freecad_type: JointObject.GroundedJoint
       group: Base
 - name: Gear_Spacer001
@@ -57205,7 +57205,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5147690>
+          value: <JointObject.Joint object at 0x0000027431CE6290>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -57477,7 +57477,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B83D10>
+          value: <JointObject.Joint object at 0x000002743ECAF250>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -57749,7 +57749,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B513F150>
+          value: <JointObject.Joint object at 0x00000273B512F710>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -58028,7 +58028,7 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -273.2876603174131 mm
+          value: -273.28766031741316 mm
         Base.y:
           type: QUANTITY
           value: 56.73943298230959 mm
@@ -58276,7 +58276,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743EC80510>
+          value: <JointObject.Joint object at 0x00000273B512E4D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -58548,7 +58548,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B4FC50>
+          value: <JointObject.Joint object at 0x00000274589F7010>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -58820,7 +58820,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743D6DA3D0>
+          value: <JointObject.Joint object at 0x00000273A4D65F50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -59081,7 +59081,7 @@ objects:
           value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: -1.38698e-11 mm
+          value: -1.3869794202037156e-11 mm
         Base.z:
           type: QUANTITY
           value: 6.0 mm
@@ -59103,7 +59103,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x0000027461B6E550>
+          value: <JointObject.Joint object at 0x0000027432014CD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -59350,10 +59350,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -3.6e-15 mm
+          value: -3.552713678800501e-15 mm
         Base.y:
           type: QUANTITY
-          value: -1.38698e-11 mm
+          value: -1.3869794202037156e-11 mm
         Base.z:
           type: QUANTITY
           value: 6.0 mm
@@ -59375,7 +59375,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5147A50>
+          value: <JointObject.Joint object at 0x0000027432030910>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -59647,7 +59647,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B9B110>
+          value: <JointObject.Joint object at 0x000002743ECAF650>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -59869,10 +59869,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -32.000000000000014 mm
+          value: -31.999999999999986 mm
         Base.y:
           type: QUANTITY
-          value: 7.1e-15 mm
+          value: -1.4210854715202004e-14 mm
         Base.z:
           type: QUANTITY
           value: 0.0 mm
@@ -59894,10 +59894,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -33.000000000000014 mm
+          value: -33.0 mm
         Base.y:
           type: QUANTITY
-          value: 29.000000000000007 mm
+          value: 28.999999999999993 mm
         Base.z:
           type: QUANTITY
           value: 3.0 mm
@@ -59919,7 +59919,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E73A750>
+          value: <JointObject.Joint object at 0x00000274589FD690>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -60169,7 +60169,7 @@ objects:
           value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: -1.23208e-11 mm
+          value: -1.2320811038080137e-11 mm
         Base.z:
           type: QUANTITY
           value: 6.0 mm
@@ -60191,7 +60191,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273A1A078D0>
+          value: <JointObject.Joint object at 0x00000274589F7290>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -60463,7 +60463,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E496290>
+          value: <JointObject.Joint object at 0x00000274589F4CD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -60685,13 +60685,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -0.41749475215060183 mm
+          value: -0.41749475215060317 mm
         Base.y:
           type: QUANTITY
-          value: 0.0950954860379628 mm
+          value: 0.0950954860380051 mm
         Base.z:
           type: QUANTITY
-          value: 86.49999999999994 mm
+          value: 86.5 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -60710,10 +60710,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 1.4210854715202004e-14 mm
+          value: -1.4210854715202004e-14 mm
         Base.y:
           type: QUANTITY
-          value: -2.220446049250313e-15 mm
+          value: -7.549516567451064e-15 mm
         Base.z:
           type: QUANTITY
           value: 86.59999999999997 mm
@@ -60735,7 +60735,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E9F3890>
+          value: <JointObject.Joint object at 0x00000274589FE710>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -60844,25 +60844,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 26.17369660999858 mm
+          value: 26.17369660999864 mm
         Base.y:
           type: QUANTITY
-          value: 63.522266540149204 mm
+          value: 63.52226654014922 mm
         Base.z:
           type: QUANTITY
-          value: -14.565343053931832 mm
+          value: -14.565343053931816 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 124.21388845308712 deg
+          value: 124.21388845308708 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.7986914737357813
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.04669560049218953
+          value: -0.046695600492189446
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.5999262043588693
+          value: 0.599926204358869
       group: ' Link'
     Scale:
       kind: Primitive
@@ -60929,25 +60929,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 62.38180605492365 mm
+          value: 62.38180605492372 mm
         Base.y:
           type: QUANTITY
-          value: 27.606075060200688 mm
+          value: 27.606075060200684 mm
         Base.z:
           type: QUANTITY
-          value: -14.56534305393182 mm
+          value: -14.565343053931851 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.19518001347282 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.6604771950212796
+          value: -0.6604771950212798
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7485819344651955
+          value: -0.7485819344651953
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.058266304577933026
+          value: -0.05826630457793291
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61014,25 +61014,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 19.105055371816633 mm
+          value: 19.105055371816768 mm
         Base.y:
           type: QUANTITY
-          value: 56.39617312565409 mm
+          value: 56.39617312565403 mm
         Base.z:
           type: QUANTITY
-          value: 185.18263091249858 mm
+          value: 185.18263091249855 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 115.4650138389334 deg
+          value: 115.46501383893343 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.8339453814715886
+          value: 0.8339453814715888
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0620920427345277
+          value: 0.06209204273452776
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.5483426656309541
+          value: 0.5483426656309536
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61099,22 +61099,22 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 55.31316481674174 mm
+          value: 55.31316481674188 mm
         Base.y:
           type: QUANTITY
-          value: 20.47998164570561 mm
+          value: 20.47998164570555 mm
         Base.z:
           type: QUANTITY
-          value: 185.18263091249858 mm
+          value: 185.18263091249847 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.31587887280922 deg
+          value: 90.31587887280918 deg
         Rotation.Axis.x:
           type: FLOAT
           value: -0.7529373592938854
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.653913191598329
+          value: -0.6539131915983288
         Rotation.Axis.z:
           type: FLOAT
           value: 0.07404640999560945
@@ -61184,25 +61184,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 66.28660217153326 mm
+          value: 66.2866021715333 mm
         Base.y:
           type: QUANTITY
-          value: 23.73276029275529 mm
+          value: 23.732760292755273 mm
         Base.z:
           type: QUANTITY
-          value: -14.565343053931795 mm
+          value: -14.565343053931846 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 124.21388845308708 deg
+          value: 124.21388845308711 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.7986914737357813
+          value: 0.7986914737357814
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.04669560049218952
+          value: -0.04669560049218958
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.5999262043588692
+          value: 0.599926204358869
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61269,25 +61269,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 39.87487670905009 mm
+          value: 39.874876709050106 mm
         Base.y:
           type: QUANTITY
-          value: 85.14465456491087 mm
+          value: 85.1446545649109 mm
         Base.z:
           type: QUANTITY
-          value: -57.86661324315377 mm
+          value: -57.86661324315372 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 96.23668151889868 deg
+          value: 96.23668151889864 deg
         Rotation.Axis.x:
           type: FLOAT
           value: -0.853713565820741
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.4161521650041497
+          value: -0.4161521650041494
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.3130343800543235
+          value: 0.3130343800543236
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61354,25 +61354,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 83.89257838719435 mm
+          value: 83.89257838719436 mm
         Base.y:
           type: QUANTITY
-          value: 41.48183355007151 mm
+          value: 41.48183355007154 mm
         Base.z:
           type: QUANTITY
-          value: -57.866613243153715 mm
+          value: -57.86661324315372 mm
         Rotation.Angle:
           type: QUANTITY
           value: 101.06931817085538 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.8647490842732177
+          value: 0.8647490842732182
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.30189019322634536
+          value: 0.3018901932263453
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.4013369313711251
+          value: 0.40133693137112464
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61439,25 +61439,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 62.75228155244224 mm
+          value: 62.752281552442334 mm
         Base.y:
           type: QUANTITY
-          value: 20.16971358550762 mm
+          value: 20.16971358550769 mm
         Base.z:
           type: QUANTITY
-          value: 85.30864392928336 mm
+          value: 85.30864392928332 mm
         Rotation.Angle:
           type: QUANTITY
           value: 148.4642414718433 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.6804439961685146
+          value: 0.6804439961685148
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.27723864635567136
+          value: -0.2772386463556717
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.6783322939718391
+          value: 0.6783322939718387
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61524,25 +61524,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 60.63168918098776 mm
+          value: 60.631689180987806 mm
         Base.y:
           type: QUANTITY
-          value: 18.03188556115924 mm
+          value: 18.031885561159154 mm
         Base.z:
           type: QUANTITY
           value: 145.23303611921247 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 128.57819388550712 deg
+          value: 128.57819388550718 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.7790850298905908
+          value: 0.7790850298905904
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.09459678368163839
+          value: -0.0945967836816397
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.6197402397113378
+          value: 0.6197402397113383
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61609,25 +61609,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.991609686007894 mm
+          value: 30.991609686008026 mm
         Base.y:
           type: QUANTITY
-          value: -11.849101205204082 mm
+          value: -11.849101205204084 mm
         Base.z:
           type: QUANTITY
-          value: 155.29045203504475 mm
+          value: 155.29045203504464 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 128.42234750448438 deg
+          value: 128.4223475044844 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.7787538137103877
+          value: 0.7787538137103872
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.09574150834283573
+          value: -0.09574150834283682
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.6199806942250425
+          value: 0.619980694225043
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61694,16 +61694,16 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 22.268900493389005 mm
+          value: 22.268900493389058 mm
         Base.y:
           type: QUANTITY
           value: 67.39558130759465 mm
         Base.z:
           type: QUANTITY
-          value: -14.565343053931802 mm
+          value: -14.565343053931812 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.19518001347284 deg
+          value: 90.19518001347282 deg
         Rotation.Axis.x:
           type: FLOAT
           value: -0.6604771950212798
@@ -61712,7 +61712,7 @@ objects:
           value: -0.7485819344651953
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.05826630457793302
+          value: -0.05826630457793305
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61779,25 +61779,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 59.217960933351314 mm
+          value: 59.217960933351435 mm
         Base.y:
           type: QUANTITY
-          value: 16.60666687826018 mm
+          value: 16.606666878260107 mm
         Base.z:
           type: QUANTITY
-          value: 185.18263091249858 mm
+          value: 185.18263091249852 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 115.46501383893343 deg
+          value: 115.4650138389334 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: 0.8339453814715887
+          value: 0.8339453814715889
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.06209204273452781
+          value: 0.062092042734527834
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.5483426656309538
+          value: 0.5483426656309535
       group: ' Link'
     Scale:
       kind: Primitive
@@ -61977,10 +61977,10 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 7.1e-15 mm
+          value: 0.0 mm
         Base.y:
           type: QUANTITY
-          value: -7.1e-15 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
           value: 1.9999999999999964 mm
@@ -62002,13 +62002,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000064 mm
+          value: -45.00000000000004 mm
         Base.y:
           type: QUANTITY
-          value: 1.42e-14 mm
+          value: -1.4210854715202004e-14 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059944 mm
+          value: 77.94228634059945 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.00000000000001 deg
@@ -62017,17 +62017,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -1.0e-16
+          value: -3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 2.0e-16
+          value: 0.0
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000274504EA610>
+          value: <JointObject.Joint object at 0x00000273B7B67450>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -62249,13 +62249,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 0.0 mm
+          value: -7.105427357601002e-15 mm
         Base.y:
           type: QUANTITY
-          value: -7.1e-15 mm
+          value: 0.0 mm
         Base.z:
           type: QUANTITY
-          value: 1.999999999999993 mm
+          value: 2.0000000000000036 mm
         Rotation.Angle:
           type: QUANTITY
           value: 0.0 deg
@@ -62274,13 +62274,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000036 mm
+          value: -45.00000000000004 mm
         Base.y:
           type: QUANTITY
-          value: -2.999999999999993 mm
+          value: -3.0000000000000107 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059947 mm
+          value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -62289,17 +62289,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 1.1775693440128312e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B88510>
+          value: <JointObject.Joint object at 0x00000274589FD110>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -62546,32 +62546,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.000000000000014 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: 3.91e-14 mm
+          value: -7.105427357601002e-15 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059948 mm
+          value: 77.9422863405995 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 9.999999999999997e-17
+          value: 3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: -3.925231146709437e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B83150>
+          value: <JointObject.Joint object at 0x00000274783089D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -62818,32 +62818,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610306 mm
+          value: 30.524996324610285 mm
         Base.y:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: 3.552713678800501e-15 mm
         Base.z:
           type: QUANTITY
           value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E73AA90>
+          value: <JointObject.Joint object at 0x00000274589FF490>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -63090,32 +63090,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -44.999999999999986 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -61.999999999999986 mm
+          value: -62.000000000000014 mm
         Base.z:
           type: QUANTITY
           value: 77.94228634059951 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 9.999999999999991e-17
+          value: 3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999991e-17
+          value: -3.925231146709437e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x0000027461D8A950>
+          value: <JointObject.Joint object at 0x000002745F464D50>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -63362,32 +63362,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610285 mm
+          value: 30.524996324610314 mm
         Base.y:
           type: QUANTITY
-          value: -61.99999999999997 mm
+          value: -62.0 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E45AB10>
+          value: <JointObject.Joint object at 0x00000274589FF950>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -63634,13 +63634,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610306 mm
+          value: 30.524996324610314 mm
         Base.y:
           type: QUANTITY
-          value: -62.000000000000014 mm
+          value: -61.99999999999996 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836464 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -63649,17 +63649,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000003e-16
+          value: -3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 4.0000000000000014e-16
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B51B2510>
+          value: <JointObject.Joint object at 0x00000274589FC890>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -63906,13 +63906,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.5249963246103 mm
+          value: 30.52499632461027 mm
         Base.y:
           type: QUANTITY
-          value: -61.99999999999997 mm
+          value: -62.00000000000001 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -63921,17 +63921,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: -7.850462293418877e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -9.999999999999997e-17
+          value: -1.5700924586837754e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B5188090>
+          value: <JointObject.Joint object at 0x00000274589FD3D0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -64178,32 +64178,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.00000000000003 mm
+          value: -45.0 mm
         Base.y:
           type: QUANTITY
-          value: -61.99999999999999 mm
+          value: -62.000000000000014 mm
         Base.z:
           type: QUANTITY
-          value: 77.9422863405995 mm
+          value: 77.94228634059945 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: 3.925231146709438e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 9.999999999999997e-17
+          value: 7.850462293418876e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B82190>
+          value: <JointObject.Joint object at 0x00000274589FFF10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -64450,16 +64450,16 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610285 mm
+          value: 30.524996324610314 mm
         Base.y:
           type: QUANTITY
-          value: -61.99999999999996 mm
+          value: -62.0 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836455 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
@@ -64468,14 +64468,14 @@ objects:
           value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.0
+          value: -3.925231146709438e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B2C590>
+          value: <JointObject.Joint object at 0x00000273B7B65210>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -64722,16 +64722,16 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 106.04999264922057 mm
+          value: 106.0499926492206 mm
         Base.y:
           type: QUANTITY
-          value: -2.999999999999961 mm
+          value: -3.000000000000014 mm
         Base.z:
           type: QUANTITY
-          value: 209.02966071612968 mm
+          value: 209.02966071612963 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
@@ -64740,14 +64740,14 @@ objects:
           value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 9.999999999999997e-17
+          value: -3.925231146709438e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x0000027451D51A10>
+          value: <JointObject.Joint object at 0x0000027460C1ED90>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -64997,19 +64997,19 @@ objects:
           value: 106.0499926492206 mm
         Base.y:
           type: QUANTITY
-          value: 5.68e-14 mm
+          value: -1.7763568394002505e-14 mm
         Base.z:
           type: QUANTITY
-          value: 209.02966071612963 mm
+          value: 209.02966071612965 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 89.99999999999997 deg
+          value: 90.0 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 9.999999999999997e-17
+          value: 7.850462293418875e-17
         Rotation.Axis.z:
           type: FLOAT
           value: 0.0
@@ -65019,7 +65019,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E6D2C10>
+          value: <JointObject.Joint object at 0x000002743ECAD110>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -65128,25 +65128,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -12.895022295780068 mm
+          value: -12.895022295779969 mm
         Base.y:
           type: QUANTITY
-          value: 31.94531801859725 mm
+          value: 31.945318018597224 mm
         Base.z:
           type: QUANTITY
-          value: 155.17919492270522 mm
+          value: 155.17919492270502 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.95444395247773 deg
+          value: 90.95444395247779 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.6102002147111638
+          value: -0.6102002147111633
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7829663277391973
+          value: -0.7829663277391977
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.12091082496222329
+          value: -0.12091082496222463
       group: ' Link'
     Scale:
       kind: Primitive
@@ -65213,25 +65213,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 15.200259255207106 mm
+          value: 15.200259255207195 mm
         Base.y:
           type: QUANTITY
-          value: 60.269487893099544 mm
+          value: 60.26948789309946 mm
         Base.z:
           type: QUANTITY
-          value: 185.1826309124986 mm
+          value: 185.18263091249855 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.3158788728092 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.7529373592938853
+          value: -0.7529373592938856
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.653913191598329
+          value: -0.6539131915983287
         Rotation.Axis.z:
           type: FLOAT
-          value: 0.07404640999560932
+          value: 0.07404640999560949
       group: ' Link'
     Scale:
       kind: Primitive
@@ -65298,25 +65298,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 16.61398750284347 mm
+          value: 16.613987502843564 mm
         Base.y:
           type: QUANTITY
-          value: 61.69470657599856 mm
+          value: 61.694706575998495 mm
         Base.z:
           type: QUANTITY
-          value: 145.2330361192125 mm
+          value: 145.23303611921253 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.83246294602608 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.6091201345061831
+          value: -0.609120134506182
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.7839974579782671
+          value: -0.7839974579782678
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.11966890833790028
+          value: -0.11966890833790207
       group: ' Link'
     Scale:
       kind: Primitive
@@ -65383,25 +65383,25 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 18.734579874298056 mm
+          value: 18.73457987429813 mm
         Base.y:
           type: QUANTITY
-          value: 63.83253460034707 mm
+          value: 63.832534600347074 mm
         Base.z:
           type: QUANTITY
-          value: 85.3086439292834 mm
+          value: 85.30864392928338 mm
         Rotation.Angle:
           type: QUANTITY
           value: 98.18508032532766 deg
         Rotation.Axis.x:
           type: FLOAT
-          value: -0.3595557035534779
+          value: -0.3595557035534778
         Rotation.Axis.y:
           type: FLOAT
-          value: -0.8637661194766691
+          value: -0.8637661194766688
         Rotation.Axis.z:
           type: FLOAT
-          value: -0.35302660931774005
+          value: -0.3530266093177406
       group: ' Link'
     Scale:
       kind: Primitive
@@ -65606,32 +65606,32 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -45.0 mm
+          value: -45.00000000000003 mm
         Base.y:
           type: QUANTITY
-          value: 1.07e-14 mm
+          value: -2.1316282072803006e-14 mm
         Base.z:
           type: QUANTITY
-          value: 77.94228634059945 mm
+          value: 77.94228634059948 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000006e-16
+          value: 3.925231146709438e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: 2.0000000000000012e-16
+          value: 7.850462293418876e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E6E04D0>
+          value: <JointObject.Joint object at 0x0000027460C1E150>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -65881,13 +65881,13 @@ objects:
           value: 30.524996324610314 mm
         Base.y:
           type: QUANTITY
-          value: 2.84e-14 mm
+          value: -3.552713678800501e-15 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836453 mm
+          value: 143.48597352836458 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 90.0 deg
+          value: 90.00000000000001 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 1.0
@@ -65896,14 +65896,14 @@ objects:
           value: 0.0
         Rotation.Axis.z:
           type: FLOAT
-          value: 1.0e-16
+          value: -3.925231146709438e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B7B9B350>
+          value: <JointObject.Joint object at 0x000002743D5B1FD0>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -66153,10 +66153,10 @@ objects:
           value: 30.52499632461027 mm
         Base.y:
           type: QUANTITY
-          value: 4.26e-14 mm
+          value: -2.4868995751603507e-14 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836458 mm
+          value: 143.48597352836453 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -66165,17 +66165,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 1.0000000000000003e-16
+          value: -7.850462293418877e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.0000000000000003e-16
+          value: -1.5700924586837754e-16
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743297FF50>
+          value: <JointObject.Joint object at 0x0000027460C1EF10>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -66422,13 +66422,13 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: 30.524996324610314 mm
+          value: 30.5249963246103 mm
         Base.y:
           type: QUANTITY
-          value: 1.78e-14 mm
+          value: 2.842170943040401e-14 mm
         Base.z:
           type: QUANTITY
-          value: 143.48597352836453 mm
+          value: 143.48597352836455 mm
         Rotation.Angle:
           type: QUANTITY
           value: 90.0 deg
@@ -66437,17 +66437,17 @@ objects:
           value: 1.0
         Rotation.Axis.y:
           type: FLOAT
-          value: 0.0
+          value: -3.925231146709437e-17
         Rotation.Axis.z:
           type: FLOAT
-          value: -1.0000000000000003e-16
+          value: 7.850462293418875e-17
       group: Joint Connector 2
     Proxy:
       kind: Unknown
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x000002743E518E50>
+          value: <JointObject.Joint object at 0x000002743E8BE850>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
@@ -66556,16 +66556,16 @@ objects:
       paths:
         Base.x:
           type: QUANTITY
-          value: -52.20950647750816 mm
+          value: -52.20950647750876 mm
         Base.y:
           type: QUANTITY
-          value: 268.9210885226314 mm
+          value: 268.9210885226316 mm
         Base.z:
           type: QUANTITY
           value: -95.50762939453125 mm
         Rotation.Angle:
           type: QUANTITY
-          value: 250.35488615297652 deg
+          value: 250.35488615297666 deg
         Rotation.Axis.x:
           type: FLOAT
           value: 0.0
@@ -66757,7 +66757,7 @@ objects:
           value: 175.31538935183696 mm
         Base.y:
           type: QUANTITY
-          value: 21.13091308702633 mm
+          value: 21.1309130870263 mm
         Base.z:
           type: QUANTITY
           value: 0.0 mm
@@ -66782,7 +66782,7 @@ objects:
           value: -20.0 mm
         Base.y:
           type: QUANTITY
-          value: 0.0 mm
+          value: 1.4210854715202004e-14 mm
         Base.z:
           type: QUANTITY
           value: 0.0 mm
@@ -66804,7 +66804,7 @@ objects:
       paths:
         .:
           type: STRING
-          value: <JointObject.Joint object at 0x00000273B513D310>
+          value: <JointObject.Joint object at 0x00000274589FD050>
           freecad_type: JointObject.Joint
       group: Base
     Reference1:
